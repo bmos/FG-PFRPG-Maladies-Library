@@ -3893,38 +3893,11 @@
 					<subtype type="string">inhaled</subtype>
 					<type type="string">poison</type>
 				</id-00147>
-				<id-00148>
-					<description type="formattedtext">
-						<p>Found primarily in the Darklands, this fungus takes its name from the bruise-colored puffballs capping its stem, which weep a toxic yellow fluid.</p>
-						<p><b>Price </b>1,125 gp; <b>Weight </b>1 lb</p>
-						<p><b>Source </b><i>Heroes of the Wild pg. 20</i></p>
-					</description>
-					<disease_effect type="formattedtext">
-						<p></p>
-					</disease_effect>
-					<duration_interval type="number">6</duration_interval>
-					<duration_unit type="string">.1</duration_unit>
-					<freq_interval type="number">1</freq_interval>
-					<freq_unit type="string">.1</freq_unit>
-					<isconsecutive type="number">1</isconsecutive>
-					<locked type="number">1</locked>
-					<name type="string">Blistercap spore poison</name>
-					<onset_interval type="number">0</onset_interval>
-					<poison_effect_primary type="string">1d2 Dex drain, 1 Con drain</poison_effect_primary>
-					<poison_effect_secondary type="string">sickened for 1 minute</poison_effect_secondary>
-					<save_string type="string">DC 20 Fort 1/rd for 6 rounds</save_string>
-					<savecount_consec type="number">0</savecount_consec>
-					<savedc type="number">20</savedc>
-					<savesreq type="number">2</savesreq>
-					<savetype type="string">fortitude</savetype>
-					<subtype type="string">contact</subtype>
-					<type type="string">poison</type>
-				</id-00148>
 				<id-00149>
 					<description type="formattedtext">
 						<p>Found in remote regions deep underground, the blistercap takes its name from the blisters on the bruise-colored cap atop its stem, which weep a toxic yellow fluid. The spores it produces often contribute to the dangers of underground exploration.</p>
 						<p><b>Price </b>1,125 gp; <b>Weight </b>-</p>
-						<p><b>Source </b><i>Ultimate Wilderness pg. 143</i></p>
+						<p><b>Source </b><i>Ultimate Wilderness pg. 143, Heroes of the Wild pg. 20</i></p>
 					</description>
 					<disease_effect type="formattedtext">
 						<p></p>
