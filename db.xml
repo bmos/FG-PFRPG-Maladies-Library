@@ -207,7 +207,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blue lily extract (contact)</name>
+					<name type="string">Blue Lily Extract (Contact)</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Wisdom damage plus -4 penalty on Sense Motive checks and saving throws versus sleep effects for 1 hour</poison_effect_primary>
@@ -1115,7 +1115,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blue lily extract (injested)</name>
+					<name type="string">Blue Lily Extract (Injested)</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Wisdom damage plus -4 penalty on Sense Motive checks and saving throws versus sleep effects for 1 hour</poison_effect_primary>
@@ -1143,7 +1143,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Lethe water</name>
+					<name type="string">Lethe Water</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d4 Int and Cha damage (cannot reduce a creature's Int or Cha below 1)</poison_effect_primary>
 					<save_string type="string">DC 16 Will 1/rd for 6 rounds</save_string>
@@ -1168,7 +1168,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Maiden lily attar</name>
+					<name type="string">Maiden Lily Attar</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">unconscious for 1 minute</poison_effect_primary>
 					<poison_effect_secondary type="string">unconscious for 1d4 hours</poison_effect_secondary>
@@ -1221,7 +1221,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Slow nectar</name>
+					<name type="string">Slow Nectar</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d3 Dex damage plus paralysis for 1 round</poison_effect_primary>
 					<save_string type="string">DC 17 Fort 1/rd for 6 rounds</save_string>
@@ -1246,7 +1246,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Spidervine poison</name>
+					<name type="string">Spidervine Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">paralysis</poison_effect_primary>
 					<poison_effect_secondary type="string">1d2 Con damage</poison_effect_secondary>
@@ -1273,7 +1273,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Pupil's friend</name>
+					<name type="string">Pupil's Friend</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">sickened for 1 minute; if the target is affected by a second dose while already under the effects of this poison, the victim is instead nauseated for 1 minute</poison_effect_primary>
@@ -1299,7 +1299,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Red tears</name>
+					<name type="string">Red Tears</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d6 points of damage. Creatures immune to bleed effects are immune to this damage</poison_effect_primary>
 					<save_string type="string">DC 15 Fort 1/rd for 10 rounds</save_string>
@@ -1325,7 +1325,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Might blight</name>
+					<name type="string">Might Blight</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1 Str damage</poison_effect_primary>
@@ -1377,7 +1377,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Concentrated laxative</name>
+					<name type="string">Concentrated Laxative</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">This mixture gained popularity - and notoriety - when Calistrians used it for elaborate pranks, but now tricksters of all stripes use the colonic concoction for any number of reasons, such as to incommode a nosy interlocutor. After the first failed saving throw, the target is sickened for 1 minute, and after a second failure, the target is nauseated for 1 minute</poison_effect_primary>
@@ -1403,7 +1403,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Drow poison</name>
+					<name type="string">Drow Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">unconscious 1 minute</poison_effect_primary>
 					<poison_effect_secondary type="string">unconscious 2d4 hours</poison_effect_secondary>
@@ -1429,7 +1429,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Gelidburn oil</name>
+					<name type="string">Gelidburn Oil</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">This greasy pale-blue liquid delivers a shocking sensation that is both freezing cold and searing hot. Gelidburn oil is popular among pickpockets looking to stab, snatch, and run.</poison_effect_primary>
 					<save_string type="string">DC 12 Fort 1/rd for 4 rounds</save_string>
@@ -1455,7 +1455,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Goblin's eye</name>
+					<name type="string">Goblin's Eye</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1 Con damage and the creature is nauseated for 1 minute</poison_effect_primary>
@@ -1481,7 +1481,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Vampire's kiss</name>
+					<name type="string">Vampire's Kiss</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Con damage</poison_effect_primary>
 					<poison_effect_secondary type="string">bleed damage from non-poison sources increases by 1 for 1 minute</poison_effect_secondary>
@@ -1507,7 +1507,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Confabulation powder</name>
+					<name type="string">Confabulation Powder</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">staggered for 1 minute</poison_effect_primary>
 					<poison_effect_secondary type="string">If already staggered, stunned, or unconscious, the victim becomes highly suggestible. If an event (whether true or false) is described to him, he unconsciously fabricates a detailed memory of the event, filling in any gaps in the description with his own best guesses. The confabulated memory can be disbelieved with a successful DC 18 Will save the first time it is recalled, but if the save fails, the victim treats it as completely genuine thereafter. All confabulated memories can be removed with a restoration or heal spell</poison_effect_secondary>
@@ -1533,7 +1533,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Baneberry (ingested)</name>
+					<name type="string">Baneberry (Ingested)</name>
 					<onset_interval type="number">30</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Strength damage, 1 Con damage, paralyzed for 1d3 rounds</poison_effect_primary>
@@ -1557,7 +1557,7 @@
 					<freq_interval type="number">1</freq_interval>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Oil of taggit</name>
+					<name type="string">Oil of Taggit</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">unconscious 1d3 hours</poison_effect_primary>
@@ -1583,7 +1583,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Small centipede poison</name>
+					<name type="string">Small Centipede Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Dex</poison_effect_primary>
 					<save_string type="string">DC 11 Fort 1/rd for 4 rounds</save_string>
@@ -1712,7 +1712,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Baneberry (injury)</name>
+					<name type="string">Baneberry (Injury)</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d3 Strength damage, 1 Con damage, paralyzed for 1d3 rounds</poison_effect_primary>
@@ -1788,7 +1788,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Greenblood oil</name>
+					<name type="string">Greenblood Oil</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Con</poison_effect_primary>
 					<save_string type="string">DC 13 Fort 1/rd for 4 rounds</save_string>
@@ -1865,7 +1865,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Black adder venom</name>
+					<name type="string">Black Adder Venom</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Con</poison_effect_primary>
 					<save_string type="string">DC 11 Fort 1/rd for 6 rounds</save_string>
@@ -1890,7 +1890,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blue whinnis</name>
+					<name type="string">Blue Whinnis</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Con</poison_effect_primary>
 					<poison_effect_secondary type="string">unconscious 1d3 hours</poison_effect_secondary>
@@ -1941,7 +1941,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Liquid persuasion</name>
+					<name type="string">Liquid Persuasion</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1 Wis damage, and for the duration of the poison, the next time the victim's attitude toward another creature would shift one or more steps toward helpful as a result of a successful Diplomacy or Intimidate check or other effect, the victim's attitude also shifts one additional step. For example, if the victim's attitude would shift from indifferent to friendly (one step better), it shifts to helpful instead (two steps better)</poison_effect_primary>
@@ -1967,7 +1967,7 @@
 					<freq_interval type="number">1</freq_interval>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Goblinvine oil</name>
+					<name type="string">Goblinvine Oil</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">sickened</poison_effect_primary>
@@ -1993,7 +1993,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Id moss</name>
+					<name type="string">Id Moss</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Int</poison_effect_primary>
@@ -2021,7 +2021,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Draughtcap fungus</name>
+					<name type="string">Draughtcap Fungus</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<poison_effect_primary type="string">1d2 Str damage. Additionally, as long as a creature is suffering from draughtcap fungus, its body is unable to process liquids, causing the creature to undergo the effects of dehydration no matter how much it drinks and preventing the creature from benefitting from potions, extracts, and other such items. After the failed initial save, the creature counts as if it had gone without water for 1 day. Further, each failed ongoing save causes the creature to be treated as though it had gone an additional hour without consuming water.</poison_effect_primary>
@@ -2047,7 +2047,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Indigo dreams</name>
+					<name type="string">Indigo Dreams</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Wis</poison_effect_primary>
@@ -2075,7 +2075,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Marvelous fear gas</name>
+					<name type="string">Marvelous Fear Gas</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">shaken for 10 minutes (this can't produce a more severe fear effect)</poison_effect_primary>
 					<poison_effect_secondary type="string">1d2 Wisdom damage</poison_effect_secondary>
@@ -2101,7 +2101,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Medium spider venom</name>
+					<name type="string">Medium Spider Venom</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
 					<save_string type="string">DC 14 Fort 1/rd for 4 rounds</save_string>
@@ -2127,7 +2127,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Rainbow scarab shell</name>
+					<name type="string">Rainbow Scarab Shell</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d4 Strength damage and suffocation (see description)</poison_effect_primary>
@@ -2153,7 +2153,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Alchemical isolation</name>
+					<name type="string">Alchemical Isolation</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">deafened for 10 minutes</poison_effect_primary>
 					<poison_effect_secondary type="string">blinded for 10 minutes</poison_effect_secondary>
@@ -2205,7 +2205,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Striped toadstool</name>
+					<name type="string">Striped Toadstool</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Wis and 1 Int</poison_effect_primary>
@@ -2232,7 +2232,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Black whinnis</name>
+					<name type="string">Black Whinnis</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Con damage</poison_effect_primary>
 					<poison_effect_secondary type="string">nausea for 1d4 rounds</poison_effect_secondary>
@@ -2259,7 +2259,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Chelish deathapple</name>
+					<name type="string">Chelish Deathapple</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">enter a deathlike trance for 1 minute; see below</poison_effect_primary>
@@ -2286,7 +2286,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Hazemind concentrate</name>
+					<name type="string">Hazemind Concentrate</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">The subject's mind goes fuzzy, shifting its attitudes toward all other creatures one step closer to indifferent; DCs to influence the subject with Charisma, Diplomacy, Handle Animal, or Intimidate checks increase by 4</poison_effect_primary>
@@ -2312,7 +2312,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Large scorpion venom</name>
+					<name type="string">Large Scorpion Venom</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
 					<save_string type="string">DC 17 Fort 1/rd for 6 rounds</save_string>
@@ -2362,7 +2362,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Giant wasp poison</name>
+					<name type="string">Giant Wasp Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Dex</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/rd for 6 rounds</save_string>
@@ -2387,7 +2387,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Hazemind mist</name>
+					<name type="string">Hazemind Mist</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">The subject's mind goes fuzzy, shifting its attitudes toward all other creatures one step closer to indifferent; DCs to influence the subject with Charisma, Diplomacy, Handle Animal, or Intimidate checks increase by 4</poison_effect_primary>
@@ -2413,7 +2413,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Diplopic serum</name>
+					<name type="string">Diplopic Serum</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Wis damage. Additionally, the creature has double vision, imposing a 50% miss chance on its attacks against all opponents. Blind creatures are unaffected by this additional effect</poison_effect_primary>
 					<save_string type="string">DC 15 Fort 1/rd for 6 rounds</save_string>
@@ -2438,7 +2438,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Malyass root paste</name>
+					<name type="string">Malyass Root Paste</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d2 Dex</poison_effect_primary>
@@ -2466,7 +2466,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Nymph's lure</name>
+					<name type="string">Nymph's Lure</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<poison_effect_primary type="string">1d2 Str and Wis damage. Additionally, as long as a creature is afflicted with nymph's lure, its sweat exudes powerful pheromones that might attract wild creatures. The DCs of Perception and Survival checks to locate or track the creature using scent are reduced by 10. Additionally, when rolling to determine whether the afflicted creature has a random encounter, roll twice and if either roll would result in a random encounter, one occurs.</poison_effect_primary>
@@ -2492,7 +2492,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Shadow essence</name>
+					<name type="string">Shadow Essence</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Str drain</poison_effect_primary>
 					<poison_effect_secondary type="string">1d2 Str</poison_effect_secondary>
@@ -2519,7 +2519,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blackfinger's salt</name>
+					<name type="string">Blackfinger's Salt</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d2 Con and 1d3 bleed</poison_effect_primary>
@@ -2545,7 +2545,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Sassone leaf residue</name>
+					<name type="string">Sassone Leaf Residue</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">2d12 hp</poison_effect_primary>
@@ -2572,7 +2572,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Sloth's bite</name>
+					<name type="string">Sloth's Bite</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">This poison causes the affected creature to be sluggish and slow to react. The target takes 1d2 points of Dexterity damage and is flat-footed until the beginning of her next turn</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/rd for 6 rounds</save_string>
@@ -2598,7 +2598,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Starving nettle</name>
+					<name type="string">Starving Nettle</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d3 Dex and Con damage. In addition, each time the creature fails a save against the poison, for the following 24 hours it is overwhelmed with nausea whenever food is presented to it and is unable to bring itself to eat, no matter how hungry it becomes.</poison_effect_primary>
 					<save_string type="string">DC 15 Fort 1/day for 8 days</save_string>
@@ -2623,7 +2623,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Count Ambras's punishment</name>
+					<name type="string">Count Ambras's Punishment</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1 Dex drain and nauseated for 1 minute</poison_effect_primary>
@@ -2677,7 +2677,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Slaver's will</name>
+					<name type="string">Slaver's Will</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1 Wis damage, target must roll twice and take the lower result for all saving throws against mind-affecting effects until the Wis damage is healed</poison_effect_primary>
@@ -2704,7 +2704,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blackfinder's silence</name>
+					<name type="string">Blackfinder's Silence</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">unable to speak (even to cast spells) for 1 round</poison_effect_primary>
 					<save_string type="string">DC 14 Fort 1/rd for 4 rounds</save_string>
@@ -2756,7 +2756,7 @@
 					<freq_interval type="number">1</freq_interval>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Brinestump special</name>
+					<name type="string">Brinestump Special</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">nauseated for 5 rounds</poison_effect_primary>
@@ -2784,7 +2784,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Cloudthorn venom</name>
+					<name type="string">Cloudthorn Venom</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d3 Str and Dex damage. In addition, the creature is unable to feel pain for 1 hour, rendering it immune to pain effects. A creature attacking the poisoned creature can attempt a Sleight of Hand check opposed by the poisoned creature's Perception check in order to attempt to deliver the attack without the target being aware of it, as the creature feels no pain from the attack. If a PC is rendered numb in this way, the GM should secretly track all damage dealt to the character until the numbing effect ends.</poison_effect_primary>
@@ -2811,7 +2811,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Gray justice</name>
+					<name type="string">Gray Justice</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Wis, see text</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/min for 10 minutes</save_string>
@@ -2836,7 +2836,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Lich dust</name>
+					<name type="string">Lich Dust</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
@@ -2862,7 +2862,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Peasant's woe</name>
+					<name type="string">Peasant's Woe</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">-10 ft. to base speed for 1d6 minutes</poison_effect_primary>
 					<poison_effect_secondary type="string">1 Dex damage</poison_effect_secondary>
@@ -2888,7 +2888,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Rainbow jellyfish toxin</name>
+					<name type="string">Rainbow Jellyfish Toxin</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">staggered for 1d6 rounds</poison_effect_primary>
 					<poison_effect_secondary type="string">paralyzed for 1d6 minutes</poison_effect_secondary>
@@ -2914,7 +2914,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Swampseer poison</name>
+					<name type="string">Swampseer Poison</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Wis</poison_effect_primary>
@@ -2968,7 +2968,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Kiss of barbatos</name>
+					<name type="string">Kiss of Barbatos</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<poison_effect_primary type="string">fatigued, 1d2 Str drain, and 1 Con drain</poison_effect_primary>
@@ -2996,7 +2996,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Widow's kiss</name>
+					<name type="string">Widow's Kiss</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<poison_effect_primary type="string">1d3 Con, see text</poison_effect_primary>
@@ -3022,7 +3022,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Tears of death</name>
+					<name type="string">Tears of Death</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d6 Con and paralyzed 1 minute</poison_effect_primary>
@@ -3097,7 +3097,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">King's sleep</name>
+					<name type="string">King's Sleep</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<poison_effect_primary type="string">1 Con drain</poison_effect_primary>
@@ -3123,7 +3123,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Leopard's bane</name>
+					<name type="string">Leopard's Bane</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">Consuming the flowers of this plant weakens the walls of the imbiber's veins, causing them to rupture. The target takes 1d2 points of Constitution drain and 1d4 points of bleed damage. Blood (or an equivalent bodily fluid, if the imbiber does not have blood) flows from the target's eyes, causing the subject to be blinded for the duration of the bleed effect. This bleeding can be stopped as normal (with a successful DC 15 Heal check or the application of any magical healing)</poison_effect_primary>
@@ -3149,7 +3149,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Black lotus extract</name>
+					<name type="string">Black Lotus Extract</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d6 Con</poison_effect_primary>
@@ -3202,7 +3202,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Wyvern poison</name>
+					<name type="string">Wyvern Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d4 Con</poison_effect_primary>
 					<save_string type="string">DC 17 Fort 1/rd for 6 rounds</save_string>
@@ -3229,7 +3229,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Styx sap</name>
+					<name type="string">Styx Sap</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Wis damage, and the creature loses its memories from the past 10 minutes, as though they had been erased by the spell modify memory</poison_effect_primary>
@@ -3255,7 +3255,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Snap will</name>
+					<name type="string">Snap Will</name>
 					<onset_interval type="number">5</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">The subject experiences difficulty maintaining focus and self-control, and takes a -4 penalty on Will saves and Wisdom-based skill checks for 1 minute</poison_effect_primary>
@@ -3282,7 +3282,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Hydrofluoric acid</name>
+					<name type="string">Hydrofluoric Acid</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d2 Str drain, 1d2 Con, and 2d6 acid</poison_effect_primary>
@@ -3334,7 +3334,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Everwake serum</name>
+					<name type="string">Everwake Serum</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">cannot voluntarily rest or sleep (spells such as sleep still function as normal), preventing spellcasters who need to rest to regain or prepare spells from doing so</poison_effect_primary>
 					<save_string type="string">DC 16 Fort 1/day for 5 days</save_string>
@@ -3361,7 +3361,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Dreaming death</name>
+					<name type="string">Dreaming Death</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">sleep 10 minutes, see text</poison_effect_primary>
@@ -3388,7 +3388,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Dream crystal toxin</name>
+					<name type="string">Dream Crystal Toxin</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Int drain (a creature currently suffering the curse of bestial dreams transforms into an id mutant once its Intelligence is reduced by 6 points or reaches a score of 1, whichever comes first)</poison_effect_primary>
 					<save_string type="string">DC 20 Will 1/hour for 6 hours</save_string>
@@ -3414,7 +3414,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Grinding joint paste</name>
+					<name type="string">Grinding Joint Paste</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Dexterity damage</poison_effect_primary>
@@ -3440,7 +3440,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Burnt othur fumes</name>
+					<name type="string">Burnt Othur Fumes</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Con drain</poison_effect_primary>
 					<poison_effect_secondary type="string">1d3 Con</poison_effect_secondary>
@@ -3466,7 +3466,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Nightmare vapor</name>
+					<name type="string">Nightmare Vapor</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Wis and confused 1 round</poison_effect_primary>
 					<save_string type="string">DC 20 Fort 1/rd for 6 rounds</save_string>
@@ -3516,7 +3516,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Aconite root</name>
+					<name type="string">Aconite Root</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Dex damage, 1 Con damage, and nauseated for 1 round</poison_effect_primary>
@@ -3622,7 +3622,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Leng's tears</name>
+					<name type="string">Leng's Tears</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d2 Wisdom damage and paralyzed for 10 minutes</poison_effect_primary>
@@ -3648,7 +3648,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Insanity mist</name>
+					<name type="string">Insanity Mist</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d3 Wis</poison_effect_primary>
 					<save_string type="string">DC 15 Fort 1/rd for 6 rounds</save_string>
@@ -3673,7 +3673,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Hag spit</name>
+					<name type="string">Hag Spit</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">blindness for 1d10 rounds</poison_effect_primary>
 					<poison_effect_secondary type="string">1d4 Wis damage</poison_effect_secondary>
@@ -3699,7 +3699,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Dragon bile</name>
+					<name type="string">Dragon Bile</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
 					<save_string type="string">DC 26 Fort 1/rd for 6 rounds</save_string>
@@ -3724,7 +3724,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Demon nettle sap</name>
+					<name type="string">Demon Nettle Sap</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Wis drain</poison_effect_primary>
 					<save_string type="string">DC 21 Fort 1/rd for 6 rounds</save_string>
@@ -3751,7 +3751,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Breath of the mantis god</name>
+					<name type="string">Breath of the Mantis God</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d4 bleed; see text</poison_effect_primary>
 					<poison_effect_secondary type="string">1d3 Con damage</poison_effect_secondary>
@@ -3777,7 +3777,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Azure lily pollen</name>
+					<name type="string">Azure Lily Pollen</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">nauseated 1 minute</poison_effect_primary>
 					<poison_effect_secondary type="string">paralyzed 2d4 hours</poison_effect_secondary>
@@ -3804,7 +3804,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Skinsap extract</name>
+					<name type="string">Skinsap Extract</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">staggered and confused (see description)</poison_effect_primary>
 					<poison_effect_secondary type="string">1d2 Dexterity damage</poison_effect_secondary>
@@ -3831,7 +3831,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Red bedlam</name>
+					<name type="string">Red Bedlam</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">confusion</poison_effect_primary>
@@ -3882,7 +3882,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Lungsap powder</name>
+					<name type="string">Lungsap Powder</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">This fine powder absorbs the oxygen from the lungs of any creature that breathes it in, causing the creature to gradually asphyxiate. The target has difficulty breathing and is staggered. If the target suffers the effect for 4 rounds, he falls unconscious for 1 minute at the end of the fourth round</poison_effect_primary>
 					<save_string type="string">DC 16 Fort 1/rd for 4 rounds</save_string>
@@ -3908,7 +3908,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blistercap spore</name>
+					<name type="string">Blistercap Spore</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Dex drain and 1 Con drain</poison_effect_primary>
 					<poison_effect_secondary type="string">sickened for 1 minute</poison_effect_secondary>
@@ -3934,7 +3934,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Ungol dust</name>
+					<name type="string">Ungol Dust</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1 Cha drain</poison_effect_primary>
 					<poison_effect_secondary type="string">1d2 Cha</poison_effect_secondary>
@@ -3987,7 +3987,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Cockatrice spit</name>
+					<name type="string">Cockatrice Spit</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Dex damage (a creature who takes Dexterity damage equal to its Dexterity score from this poison becomes petrified; each day, a petrified victim can attempt a new DC 12 Fortitude save to recover from the venom and become unpetrified with an amount of Dexterity damage equal to 1 point less than its Dexterity score)</poison_effect_primary>
 					<save_string type="string">DC 12 Fort 1/rd for 4 rounds</save_string>
@@ -4039,7 +4039,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Third eye</name>
+					<name type="string">Third Eye</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Wis damage. Each time the victim takes Wisdom damage, it must succeed at a DC 17 Will save or become confused for that round.</poison_effect_primary>
@@ -4095,7 +4095,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Nights-eye dust</name>
+					<name type="string">Nights-Eye Dust</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">shaken</poison_effect_primary>
 					<poison_effect_secondary type="string">blinded for 6 rounds</poison_effect_secondary>
@@ -4121,7 +4121,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Fury gas</name>
+					<name type="string">Fury Gas</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">Non-orcs are blinded for 1 minute. Orcs rage for 1 minute, gaining a +2 alchemical bonus to Strength and Dexterity, a +1 alchemical bonus on Will saves, and a -2 penalty to AC. This poison's effects are otherwise similar to a barbarian's rage, except that affected orcs are unable to discern friend from foe - attacking the nearest creature each round - and they are not fatigued afterward</poison_effect_primary>
 					<save_string type="string">DC 16 Fort 1/min for 4 minutes</save_string>
@@ -4146,7 +4146,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Flaming doom</name>
+					<name type="string">Flaming Doom</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d6 fire damage and victim possibly catches on fire (see Pathfinder RPG Core Rulebook 444)</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/rd for 6 rounds</save_string>
@@ -4172,7 +4172,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Violet venom</name>
+					<name type="string">Violet Venom</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Str and Con damage</poison_effect_primary>
 					<save_string type="string">DC 13 Fort 1/min for 6 minutes</save_string>
@@ -4197,7 +4197,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Dark reaver powder</name>
+					<name type="string">Dark Reaver Powder</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Con and 1 Str</poison_effect_primary>
@@ -4223,7 +4223,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Cytillesh extract</name>
+					<name type="string">Cytillesh Extract</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">The victim loses all memory of events that took place in the previous hour and can't form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a restoration or heal spell</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/hour for 8 hours</save_string>
@@ -4248,7 +4248,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Brain blot</name>
+					<name type="string">Brain Blot</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">-5 on concentration checks for 1 hour</poison_effect_primary>
@@ -4275,7 +4275,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Black spider marsh poison</name>
+					<name type="string">Black Spider Marsh Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d4 Dex and confused for 1 round</poison_effect_primary>
 					<save_string type="string">DC 14 Fort 1/rd for 6 rounds</save_string>
@@ -4302,7 +4302,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Vessel between</name>
+					<name type="string">Vessel Between</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Constitution and Wisdom damage</poison_effect_primary>
 					<save_string type="string">DC 20 Fort 1/min for 4 minutes</save_string>
@@ -4329,7 +4329,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Twilight illness</name>
+					<name type="string">Twilight Illness</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">nauseated for 1 hour and then sickened for 1 day</poison_effect_primary>
 					<save_string type="string">DC 19 Fort 1/hour for 8 hours</save_string>
@@ -4355,7 +4355,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Muddling heresy</name>
+					<name type="string">Muddling Heresy</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d4+1 Wis damage</poison_effect_primary>
 					<save_string type="string">DC 20 Fort 1/rd for 6 rounds</save_string>
@@ -4399,7 +4399,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Liquid leprosy</name>
+					<name type="string">Liquid Leprosy</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<save_string type="string">DC 20 Fort 1/min for 6 minutes after 1 minutes</save_string>
@@ -4451,7 +4451,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Purple worm poison</name>
+					<name type="string">Purple Worm Poison</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
 					<save_string type="string">DC 24 Fort 1/rd for 6 rounds</save_string>
@@ -4477,7 +4477,7 @@
 					<freq_unit type="string">60</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Witch-hunter's sword</name>
+					<name type="string">Witch-Hunter's Sword</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1 Int, Wis, and Cha damage. As long as this poison persists, the victim takes a -5 penalty on concentration checks. In addition, a creature suffering from witch-hunter's sword poison must succeed at a concentration check (DC = 20 + double the spell's level) to cast spells or use spell-like abilities.</poison_effect_primary>
@@ -4530,7 +4530,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Tongue twist</name>
+					<name type="string">Tongue Twist</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Int damage. Additionally, the creature loses the ability to speak one language at random from the languages he knows for 1 minute. Additional failed saves cause the target to lose the ability to speak additional languages if the target has the ability to speak more than one language. Any creature that can no longer speak a language speaks only gibberish, which prevents casting spells with verbal components</poison_effect_primary>
 					<save_string type="string">DC 16 Fort 1/rd for 6 rounds</save_string>
@@ -4555,7 +4555,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Tears of perfection</name>
+					<name type="string">Tears of Perfection</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d2 Wis damage and blindness for 1 round</poison_effect_primary>
@@ -4582,7 +4582,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Smell of fear</name>
+					<name type="string">Smell of Fear</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Wis damage, and if the victim would become shaken during the next 1 minute, she becomes frightened instead</poison_effect_primary>
 					<save_string type="string">DC 17 Fort 1/min for 6 minutes</save_string>
@@ -4609,7 +4609,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Jackalroot essence</name>
+					<name type="string">Jackalroot Essence</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">uncontrollble laughter (as per hideous laughter)</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/rd</save_string>
@@ -4636,7 +4636,7 @@
 					<freq_unit type="string">1440</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Crone's curse</name>
+					<name type="string">Crone's Curse</name>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<poison_effect_primary type="string">1 Dex and Wis damage. As long as a creature has any ability damage from crone's curse, the creature takes a -4 penalty on saving throws to resist the effects of extreme temperatures. Additionally, the creature gains vulnerability to cold and fire damage during this time, taking half again as much (+50%) damage from these forms of damage.</poison_effect_primary>
@@ -4688,7 +4688,7 @@
 					<freq_unit type="string">.1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Laughing gas</name>
+					<name type="string">Laughing Gas</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">The subject experiences a bout of uncontrollable laughter and is dazed for 1 round</poison_effect_primary>
 					<save_string type="string">DC 12 Fort 1/rd for 5 rounds</save_string>
@@ -4714,7 +4714,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Halo mushroom toxin</name>
+					<name type="string">Halo Mushroom Toxin</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">distraction (see description)</poison_effect_primary>
@@ -4741,7 +4741,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Fiddleback venom</name>
+					<name type="string">Fiddleback Venom</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">nauseated 1d4 rounds</poison_effect_primary>
@@ -4770,7 +4770,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Calistria's revenge</name>
+					<name type="string">Calistria's Revenge</name>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Dexterity damage</poison_effect_primary>
 					<save_string type="string">DC 16 Fort 1/min for 6 minutes</save_string>
@@ -4796,7 +4796,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Blue star</name>
+					<name type="string">Blue Star</name>
 					<onset_interval type="number">10</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d2 Con damage. In addition, the creature takes a -2 penalty on saving throws to resist poison for 1 week</poison_effect_primary>
@@ -4822,7 +4822,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Terinav root</name>
+					<name type="string">Terinav Root</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d3 Dex</poison_effect_primary>
