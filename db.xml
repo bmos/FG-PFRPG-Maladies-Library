@@ -1712,7 +1712,7 @@
 					<freq_unit type="string">1</freq_unit>
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">1</locked>
-					<name type="string">Baneberry (injury</name>
+					<name type="string">Baneberry (injury)</name>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d3 Strength damage, 1 Con damage, paralyzed for 1d3 rounds</poison_effect_primary>
