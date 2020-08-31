@@ -244,7 +244,6 @@
 				</id-00005>
 				<id-00006>
 					<description type="formattedtext">
-						<h>Onset 1d3 days</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -256,6 +255,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Filth Fever</name>
+					<onset_dice type="dice">d3</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 12 Fort 1/day</save_string>
@@ -269,7 +269,6 @@
 				<id-00007>
 					<description type="formattedtext">
 						<h>Fortitude Save DC 12 negates on first contact.</h>
-						<h>Onset 2d4 weeks</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -281,6 +280,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Leprosy</name>
+					<onset_dice type="dice">d4,d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">10080</onset_unit>
 					<save_string type="string">DC 20 Fort 1/week</save_string>
@@ -409,7 +409,6 @@
 				</id-00012>
 				<id-00013>
 					<description type="formattedtext">
-						<h>Onset 1d4 days</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -421,6 +420,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Devil Chills</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 14 Fort 1/day</save_string>
@@ -550,7 +550,6 @@
 				</id-00018>
 				<id-00019>
 					<description type="formattedtext">
-						<h>Onset 1d3 days</h>
 						<p><b>Source </b><i>Heart of the Jungle pg. 7</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -562,6 +561,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Malaria (Jungle Fever)</name>
+					<onset_dice type="dice">d3</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 18 Fort 1/day after 1 days</save_string>
@@ -693,7 +693,6 @@
 				</id-00024>
 				<id-00025>
 					<description type="formattedtext">
-						<h>Onset 1d4 days</h>
 						<p>Reptiles and creatures with the reptilian subtype receive a -2 penalty on saving throws and require 3 consecutive saves to recover.</p>
 						<p><b>Source </b><i>Lost Cities of Golarion pg. 8</i></p>
 					</description>
@@ -706,6 +705,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">The Scales</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 16 Fort 0.5/day</save_string>
@@ -741,7 +741,6 @@
 				</id-00026>
 				<id-00027>
 					<description type="formattedtext">
-						<h>Onset 1d3 days</h>
 						<p><b>Source </b><i>Heart of the Jungle pg. 7</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -753,6 +752,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Dysentary</name>
+					<onset_dice type="dice">d3</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 16 Fort 1/day</save_string>
@@ -765,7 +765,6 @@
 				</id-00027>
 				<id-00028>
 					<description type="formattedtext">
-						<h>Onset 1d4 days</h>
 						<p>Days after contracting the virus, the victim becomes stricken with a high fever and begins sweating profusely. Later, the victim begins suffering from extreme tremors, followed by a thinning of the blood and bleeding from the tear ducts, nose, ears, and other orifices.</p>
 						<p><b>Source </b><i>Pathfinder #69: Maiden, Mother, Crone pg. 71</i></p>
 					</description>
@@ -778,6 +777,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Dvezda Plague</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 16 Fort 1/day after 1 days</save_string>
@@ -885,7 +885,6 @@
 				</id-00032>
 				<id-00033>
 					<description type="formattedtext">
-						<h>Onset 1d3 days</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -897,6 +896,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Blinding Sickness</name>
+					<onset_dice type="dice">d3</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 16 Fort 1/day</save_string>
@@ -909,7 +909,6 @@
 				</id-00033>
 				<id-00034>
 					<description type="formattedtext">
-						<h>Onset 2d6+1 days</h>
 						<p><b>Save </b>+1 per previous save</p>
 						<p>Ongoing Save Fort DC equal to the save DC of the failed saving throw</p>
 						<p>Anyone who lives with spellscar fever for a week straight without dying becomes immune to the disease and to mana fever, but also becomes a Mana Waste mutant ( <i>Pathfinder Campaign Setting: Inner Sea Bestiary 28 </i>) or a mutant ( <i>Pathfinder RPG Bestiary 5 180 </i>), chosen by the GM. A Mana Waste mutant created in such a way can use the following Spellscar Fever Deformities table in place of a deformity from the Inner Sea Bestiary, while a mutant resulting from spellscar fever can take one effect from the same table in place of one deformity and one mutation.</p>
@@ -946,7 +945,8 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Spellscar Fever</name>
-					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d6,d6</onset_dice>
+					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 15 Fort 1/day</save_string>
 					<savecount_consec type="number">0</savecount_consec>
@@ -958,7 +958,6 @@
 				</id-00034>
 				<id-00035>
 					<description type="formattedtext">
-						<h>Onset 1d3 days</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -970,6 +969,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Red Ache</name>
+					<onset_dice type="dice">d3</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 15 Fort 1/day</save_string>
@@ -1006,7 +1006,6 @@
 				</id-00036>
 				<id-00037>
 					<description type="formattedtext">
-						<h>Onset 1d6 days</h>
 						<p><b>Source </b><i>Heart of the Jungle pg. 7</i></p>
 					</description>
 					<disease_effect type="formattedtext">
@@ -1018,6 +1017,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Greenscale</name>
+					<onset_dice type="dice">d6</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 15 Fort 1/week</save_string>
@@ -1054,7 +1054,6 @@
 				</id-00038>
 				<id-00039>
 					<description type="formattedtext">
-						<h>Onset 1d2 days</h>
 						<p>The best cure for this disease is dosing the patient with the poison arsenic ( <i>Pathfinder RPG Core Rulebook 558 </i>) - if the patient survives, there's a cumulative 30% chance that the disease is immediately cured.</p>
 						<p><b>Source </b><i>Heart of the Jungle pg. 8</i></p>
 					</description>
@@ -1067,6 +1066,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Sleeping Sickness</name>
+					<onset_dice type="dice">d2</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 14 Fort 1/day</save_string>
@@ -2007,7 +2007,6 @@
 				</id-00075>
 				<id-00076>
 					<description type="formattedtext">
-						<h>Onset 4d6 hours</h>
 						<p>This yellow-brown mushroom is commonly found in deserts and other dry environments. Its spores absorb moisture at an incredible rate, wreaking havoc on the body of any creature foolish enough to consume it. Draughtcap fungus bears a close resemblance to a common edible mushroom, and a successful DC 20 Knowledge (nature) or Survival check is required to differentiate the two.</p>
 						<p><b>Price </b>150 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 144</i></p>
@@ -2022,6 +2021,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Draughtcap Fungus</name>
+					<onset_dice type="dice">d6,d6,d6,d6</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<poison_effect_primary type="string">1d2 Str damage. Additionally, as long as a creature is suffering from draughtcap fungus, its body is unable to process liquids, causing the creature to undergo the effects of dehydration no matter how much it drinks and preventing the creature from benefitting from potions, extracts, and other such items. After the failed initial save, the creature counts as if it had gone without water for 1 day. Further, each failed ongoing save causes the creature to be treated as though it had gone an additional hour without consuming water.</poison_effect_primary>
@@ -2452,7 +2452,6 @@
 				</id-00092>
 				<id-00093>
 					<description type="formattedtext">
-						<h>Onset 1d4 hours</h>
 						<p>Created from the concentrated pulp of the sweet-tasting pulapaya fruit (a large, bright-red, ovular delicacy with a hard rind and watery interior), nymph's lure is used for a variety of hunting purposes in remote tropical regions. It is used in a rite of passage in certain hunter-gatherer societies, where young men and women are given a dose of the poison and sent into the wild to hunt game and prove their worth, but it is also used as a punishment in some places, with the condemned being given several doses of the poison and then forced into the wild without any weapons or equipment.</p>
 						<p><b>Price </b>250 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 144</i></p>
@@ -2467,6 +2466,7 @@
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Nymph's Lure</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<poison_effect_primary type="string">1d2 Str and Wis damage. Additionally, as long as a creature is afflicted with nymph's lure, its sweat exudes powerful pheromones that might attract wild creatures. The DCs of Perception and Survival checks to locate or track the creature using scent are reduced by 10. Additionally, when rolling to determine whether the afflicted creature has a random encounter, roll twice and if either roll would result in a random encounter, one occurs.</poison_effect_primary>
@@ -2770,7 +2770,6 @@
 				</id-00104>
 				<id-00105>
 					<description type="formattedtext">
-						<h>Onset 1d4 rounds</h>
 						<p>This potent neurotoxin is created by the cloudthorn plant, a wild bramble whose thorns deliver a poison that numbs its victims to pain, allowing the plant to feast on the blood that flows from the wounds to the ground below. The plant's name comes from the weightless, airy feeling that victims of the poison experience, which some liken to the notion of walking on clouds.</p>
 						<p><b>Price </b>400 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 144</i></p>
@@ -2785,6 +2784,7 @@
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Cloudthorn Venom</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">.1</onset_unit>
 					<poison_effect_primary type="string">1d3 Str and Dex damage. In addition, the creature is unable to feel pain for 1 hour, rendering it immune to pain effects. A creature attacking the poisoned creature can attempt a Sleight of Hand check opposed by the poisoned creature's Perception check in order to attempt to deliver the attack without the target being aware of it, as the creature feels no pain from the attack. If a PC is rendered numb in this way, the GM should secretly track all damage dealt to the character until the numbing effect ends.</poison_effect_primary>
@@ -2956,7 +2956,6 @@
 				</id-00111>
 				<id-00112>
 					<description type="formattedtext">
-						<h>Onset 1d6 days</h>
 						<p><b>Price </b>7,500 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Magnimar, City of Monuments pg. 45</i></p>
 					</description>
@@ -2969,6 +2968,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Kiss of Barbatos</name>
+					<onset_dice type="dice">d6</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<poison_effect_primary type="string">fatigued, 1d2 Str drain, and 1 Con drain</poison_effect_primary>
@@ -2982,7 +2982,6 @@
 				</id-00112>
 				<id-00113>
 					<description type="formattedtext">
-						<h>Onset 1d4 days</h>
 						<p>Developed by the spiderlike jorogumos ( <i>Pathfinder RPG Bestiary 3 156 </i>), widow's kiss is distilled from the monsters' natural venom and infused with minuscule spider eggs. Creatures injected with the toxin experience headaches and cold sweats, after which the eggs begin to hatch and infest the host's bloodstream, slowly eating the body from within. If controlled or enticed, the swarm of spiders can take direct control of its host's body, rendering hosts susceptible to effects that control or influence vermin, including a jorogumo's spider empathy ability.</p>
 						<p>The effects of widow's kiss can be removed a combination of cure disease and neutralize poison. If a creature is slain by the poison's Constitution damage, a spider swarm ( <i>Pathfinder RPG Bestiary 258 </i>) erupts from the body 1d6 rounds later.</p>
 						<p><b>Price </b>7,000 gp; <b>Weight </b>-</p>
@@ -2997,6 +2996,7 @@
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Widow's Kiss</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<poison_effect_primary type="string">1d3 Con, see text</poison_effect_primary>
@@ -3215,7 +3215,6 @@
 				</id-00121>
 				<id-00122>
 					<description type="formattedtext">
-						<h>Onset 1d4 minutes</h>
 						<p>This milky-white sap can be harvested from a rare jungle tree known as a &quot;weeping maiden&quot; in the local tongue. The tree's branches end in long, vine-like tendrils that hang low to the ground and bear large, bitter-tasting red fruit. While the fruit is safe to eat, the sap of the tree carries powerful neurotoxins that cause short-term memory loss in those that consume it. In some cultures, styx sap is occasionally taken deliberately in order to allow one to forget unpleasant or tragic events.</p>
 						<p><b>Price </b>2,600 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 145</i></p>
@@ -3230,6 +3229,7 @@
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Styx Sap</name>
+					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1</onset_unit>
 					<poison_effect_primary type="string">1d4 Wis damage, and the creature loses its memories from the past 10 minutes, as though they had been erased by the spell modify memory</poison_effect_primary>
@@ -4595,7 +4595,6 @@
 				</id-00174>
 				<id-00175>
 					<description type="formattedtext">
-						<h>Duration 1d6 rounds</h>
 						<p>The short and thorny jackalroot grows in desert climates, typically under the partial shade of ridges or boulders. It is identifiable by its pale green berries, which it bears twice per year. To followers of Lamashtu, the gnarled, prickle-covered jackalroot is a blessing. The roots of this hearty desert shrub contain a potent, incapacitating ichor often used by gnolls in religious ceremonies and when capturing slaves.</p>
 						<p><b>Price </b>600 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 144, Heroes of the Wild pg. 20</i></p>
@@ -4603,6 +4602,7 @@
 					<disease_effect type="formattedtext">
 						<p></p>
 					</disease_effect>
+					<duration_dice type="dice">d6</onset_dice>
 					<duration_interval type="number">0</duration_interval>
 					<duration_unit type="string">.1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
