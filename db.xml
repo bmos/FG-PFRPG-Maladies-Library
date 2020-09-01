@@ -4602,7 +4602,7 @@
 					<disease_effect type="formattedtext">
 						<p></p>
 					</disease_effect>
-					<duration_dice type="dice">d6</onset_dice>
+					<duration_dice type="dice">d6</duration_dice>
 					<duration_interval type="number">0</duration_interval>
 					<duration_unit type="string">.1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
