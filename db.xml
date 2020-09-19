@@ -4732,9 +4732,6 @@
 						<p><b>Price </b>500 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Rival Guide pg. 53</i></p>
 					</description>
-					<disease_effect type="formattedtext">
-						<p></p>
-					</disease_effect>
 					<duration_interval type="number">6</duration_interval>
 					<duration_unit type="string">1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
@@ -4761,9 +4758,6 @@
 						<p><b>Price </b>500 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Inner Sea Intrigue pg. 50</i></p>
 					</description>
-					<disease_effect type="formattedtext">
-						<p></p>
-					</disease_effect>
 					<duration_interval type="number">6</duration_interval>
 					<duration_unit type="string">1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
@@ -4787,9 +4781,6 @@
 						<p><b>Price </b>500 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Wilderness pg. 143</i></p>
 					</description>
-					<disease_effect type="formattedtext">
-						<p></p>
-					</disease_effect>
 					<duration_interval type="number">6</duration_interval>
 					<duration_unit type="string">1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
@@ -4813,9 +4804,6 @@
 						<p><b>Price </b>400 gp; <b>Weight </b>-</p>
 						<p><b>Source </b><i>Ultimate Equipment pg. 111</i></p>
 					</description>
-					<disease_effect type="formattedtext">
-						<p></p>
-					</disease_effect>
 					<duration_interval type="number">6</duration_interval>
 					<duration_unit type="string">1</duration_unit>
 					<freq_interval type="number">1</freq_interval>
@@ -4834,6 +4822,389 @@
 					<subtype type="string">contact</subtype>
 					<type type="string">poison</type>
 				</id-00183>
+				<id-00184>
+					<description type="formattedtext">
+						<p>This disease spreads through particles exuded from the decomposing corpses of infected animals. Infective particles can survive in the soil for decades or even centuries. The disease typically occurs when grazing mammals ingest or breathe the spores while eating ground vegetation. Anthrakitis causes a wide variety of symptoms as it attacks the skin, digestive system, or respiratory system; symptoms include fatigue, difficulty breathing, ulcers, loss of appetite, and nausea. Any victim infected with anthrakitis can also spread the disease. Those who come into contact with a victim must save versus the disease or become infected themselves. The bodies of those killed by anthrakitis are also infectious and remain so until destroyed.</p>
+						<p><b>Source </b><i>Pathfinder 8: Seven Days to the grave</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d8 Str damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Athrakitis</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d6</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 20 Fort 1/day after 1d6 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">20</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact, inhaled, or ingested</subtype>
+					<type type="string">disease</type>
+				</id-00184>
+				<id-00185>
+					<description type="formattedtext">
+						<p>This bacterial infection thrives in avian and mammalian lungs. The name is derived from the blue-tinged sputum coughed up by victims-at least until they finally keel over.</p>
+						<p><b>Source </b><i>Pathfinder Campaign Setting: Numeria, Land of Fallen Stars</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 nonlethal damage and fatigue. The fatigue and nonlethal damage cannot be cured while the disease remains. This fatigue does not stack with itself to produce exhaustion, but does stack with other sources of fatigue. A victim that accumulates sufficient damage to fall unconscious while infected with bluespit begins to suffocate. Despite being unconscious, the victim is considered to be holding its breath rather than immediately progressing to negative hit points and death.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Bluespit</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">60</onset_unit>
+					<save_string type="string">DC 14 Fort 1/day after 1 hour</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">14</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">inhaled</subtype>
+					<type type="string">disease</type>
+				</id-00185>
+				<id-00186>
+					<description type="formattedtext">
+						<p>Creatures afflicted with bog rot do not heal naturally and gain only one-half benefit from magical healing until the disease is cured. Unlike normal diseases, bog rot continues until the victim reaches Constitution 0 (and dies) or receives a remove disease spell or similar magic. The save DC is Charisma-based.</p>
+						<p><b>Source </b><i>--data missing--</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 Str, Dex, Con, or Cha (determine randomly using 1d4) damage.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Bog Rot</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 16 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">16</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact</subtype>
+					<type type="string">disease</type>
+				</id-00186>
+				<id-00187>
+					<description type="formattedtext">
+						<p>This disease causes a painful and hideous outbreak of facial tumors and a sickening deterioration of the skin across the entire body, and also works on the minds of some, slowly driving them insane.</p>
+						<p><b>Source </b><i>Pathfinder 8: Seven Days to the Grave</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Cha damage and 1d4 Con Damage.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Blister Phage</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 20 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">20</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact or injested</subtype>
+					<type type="string">disease</type>
+				</id-00187>
+				<id-00188>
+					<description type="formattedtext">
+						<p>A carrion golem transmits cholera on a successful slam attack.</p>
+						<p><b>Source </b><i>Pathfinder 7: Edge of Anarchy</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Con damage; as long as a character suffers Con damage from Cholera, he is fatigued.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Cholera</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 13 Fort 1/day after 1d3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">13</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00188>
+				<id-00189>
+					<description type="formattedtext">
+						<p>Externally manifesting as round marks on the skin like ringworm, this fungal infection soon spreads to the nervous system. The corpses of victims that succumb to coward's mark sprout thousands of fruiting bodies 1d4 days after death, spreading the infection on the wind.</p>
+						<p><b>Source </b><i>Pathfinder Campaign Setting: Numeria, Land of Fallen Stars</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Dexterity damage and 1d2 Wisdom damage. If the victim fails two saving throws 2 days in a row (not counting the initial save), he develops a secondary effect, or the existing secondary effect worsens. Curing the affliction immediately removes all accumulated secondary effects.</p>
+						<p><h>Secondary Effect</h></p>
+						<p>The first time the disease progresses, the victim becomes shaken whenever other creatures (including allies) are within 30 feet. After the second progression, the victim must succeed at a Will saving throw (DC equal to the disease's save DC) or become frightened each time any creature approaches within 30 feet. The victim needs to attempt a saving throw against any specific creature only once every 24 hours.</p>
+						<p>With the third and final progression, the disease's save DC increases by 2, and the reaction upon a failed save increases to panicked. After the third progression, the victim feels safe only in complete solitude. The secondary effects of coward's mark are mind-affecting fear effects.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Coward's Mark</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">10080</onset_unit>
+					<save_string type="string">DC 13 Fort 1/day after 1 week</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">13</savedc>
+					<savesreq type="number">3</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact or inhaled</subtype>
+					<type type="string">disease</type>
+				</id-00189>
+				<id-00190>
+					<description type="formattedtext">
+						<p>A broad family of intestinal afflictions caused by everything from bacteria to viruses to parasitic worms, dysentery is characterized by explosive and sometimes bloody diarrhea, leading to dehydration and occasionally death.</p>
+						<p><b>Source </b><i>Pathfinder Chronicles: Heart of the Jungle</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 nonlethal damage and target is fatigued and staggered.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Dysentery</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 16 Fort 1/day after 1d3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">16</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">(parasite) contact or injury</subtype>
+					<type type="string">disease</type>
+				</id-00190>
+				<id-00191>
+					<description type="formattedtext">
+						<p>Enteric fever, also known as typhoid fever in temperate climates, breeds within contaminated foods, especially raw or undercooked meats. Symptoms include high fever, profuse sweating, and nausea. As the disease progresses, enteric fever victims become sickened and suffer from severe headaches, exhaustion, and abdominal pain, as rose-colored spots appear on the chest and abdominal areas. At that point, the victim is prone to dehydration and falls into bouts of delirium and nervous shakes.</p>
+						<p><b>Source </b><i>Pathfinder 8: Seven Days to the grave</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Str damage, 1d4 Con damage and sickened.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Enteric Fever</name>
+					<onset_interval type="number">3</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 15 Fort 1/day after 3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">15</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">ingested</subtype>
+					<type type="string">disease</type>
+				</id-00191>
+				<id-00192>
+					<description type="formattedtext">
+						<p>A disease brought from a ruined starship, final rest saps emotion until the victim simply gives up living.</p>
+						<p><b>Source </b><i>Pathfinder Campaign Setting: Numeria, Land of Fallen Stars</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Charisma damage; while any Charisma damage remains, the victim cannot gain morale bonuses, receives a +2 bonus on saves against mind-affecting effects, and must attempt a saving throw even against harmless mind-affecting effects.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Final Rest</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">10080</onset_unit>
+					<save_string type="string">DC 16 Fort 1/day after 1 week</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">16</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">inhaled</subtype>
+					<type type="string">disease</type>
+				</id-00192>
+				<id-00193>
+					<description type="formattedtext">
+						<p></p>
+						<p><b>Source </b><i>--data missing--</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1 Con damage plus 1d3 Wis damage (minimum reduction to 1 Wis).</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Rabies</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d6,d6</onset_dice>
+					<onset_unit type="string">10080</onset_unit>
+					<save_string type="string">DC 14 Fort 1/day after 2d6 weeks</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">14</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00193>
+				<id-00194>
+					<description type="formattedtext">
+						<p>A carrion golem transmits rapture pox on a successful slam attack.</p>
+						<p><b>Source </b><i>Pathfinder 7: Edge of Anarchy</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Wis and 1d4 Cha damage; as long as a character suffers ability damage, he is sickened.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Rapture Pox</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 14 Fort 1/day after 1d3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">14</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00194>
+				<id-00195>
+					<description type="formattedtext">
+						<p>Shattermind refers to a group of related infectious mental patterns spread by skin-to-skin contact between infected victims. Most forms of shattermind affect only humanoids and monstrous humanoids. Each form of shattermind spreads a different form of insanity to its victims.</p>
+						<p>Restoration allows a new saving throw but does not cure the insanity.</p>
+						<p><b>Source </b><i>Pathfinder Campaign Setting: Numeria, Land of Fallen Stars</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Wis (cannot reduce Wisdom below 1); on any day the victim fails her saving throw, she suffers the effects of a type of insanity.</p>
+						<p>Unlike normal insanity, on any day she makes a successful saving throw (using the DC for shattermind, not her form of insanity), she regains her sanity for that day. A given variety of shattermind spreads the same form of insanity to all of its victims.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Shattermind</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 17 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">17</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact</subtype>
+					<type type="string">disease</type>
+				</id-00195>
+				<id-00196>
+					<description type="formattedtext">
+						<p>A carrion golem transmits tetanus on a successful slam attack.</p>
+						<p><b>Source </b><i>Pathfinder 7: Edge of Anarchy</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Dex damage and 50% chance stiffened jaw muscles prevent speech for the next 24 hours.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Tetanus</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d6</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 14 Fort 1/day after 1d6 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">14</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00196>
+				<id-00197>
+					<description type="formattedtext">
+						<p>This disease flourishes in unsanitary conditions, places of stale air, and many humanoid cities. Symptoms include chest pain and a productive, prolonged, bloody cough. If left untreated, the disease quickly progresses, leading to high fever, chills, night sweats, appetite loss, pallor, and fatigue.</p>
+						<p><b>Source </b><i>Pathfinder 8: Seven Days to the Grave</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Str damage and 1d4 Con Damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Tuberculosis</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d4</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 18 Fort 1/day after 1d4 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">18</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">inhaled</subtype>
+					<type type="string">disease</type>
+				</id-00197>
+				<id-00198>
+					<description type="formattedtext">
+						<p>A carrion golem transmits typhoid fever on a successful slam attack.</p>
+						<p><b>Source </b><i>Pathfinder 7: Edge of Anarchy</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 Str damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Typhoid Fever</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d4</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 15 Fort 1/day after 1d4 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">15</savedc>
+					<savesreq type="number">0</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00198>
+				<id-00199>
+					<description type="formattedtext">
+						<p><h>DC = 10 + 1/2 the zombie's Hit Dice + the zombie's Cha modifier.</h></p>
+						<p>Anyone who dies while infected rises as a plague zombie in 2d6 hours.</p>
+						<p><b>Source </b><i>--data missing--</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Con damage (this damage cannot be healed while the creature is infected)</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Zombie Rot</name>
+					<onset_interval type="number">0</onset_interval>
+					<onset_dice type="dice">d4</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 10 Fort 1/day after 1d4 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">10</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact or injury</subtype>
+					<type type="string">disease</type>
+				</id-00199>
 			</category>
 		</diseases>
 	</reference>
