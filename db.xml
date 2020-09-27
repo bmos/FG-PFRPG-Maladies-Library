@@ -112,6 +112,10 @@
 			  <b>Pathfinder Adventure Path #69: Maiden, Mother, Crone (Reign of Winter 3 of 6).</b> © 2013, Paizo Inc.; Authors: Tim Hitchcock, Kevin Andrew Murphy, Jason Nelson, and Sean K Reynolds.</li>
 			<li>
 			  <b>Pathfinder Campaign Setting: The Worldwound.</b> © 2013, Paizo Inc.; Authors: James Jacobs, Jonathan H. Keith, Jason Nelson, Todd Stewart, and Tanith Tyrr.</li>
+			<li>
+			  <b>Pathfinder Campaign Setting: Isles of the Shackles.</b> © 2012, Paizo Inc.; Authors: Mike Shel.</li>
+			<li>
+			  <b>Pathfinder Campaign Setting: Inner Sea Gods.</b> © 2014, Paizo Inc.; Authors: Sean K Reynolds.</li>
 		  </list>
 		</text>
 	</license>
@@ -5205,6 +5209,244 @@
 					<subtype type="string">contact or injury</subtype>
 					<type type="string">disease</type>
 				</id-00199>
+				<id-00200>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Isles of the Shackles pg. 42</i></p>
+					</description>
+					<duration_interval type="number">6</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Aashaq's Wyvern Poison</name>
+					<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
+					<poison_effect_secondary type="string"></poison_effect_secondary>
+					<save_string type="string">DC 19 Fort 1/round for 6 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">19</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (sting)</subtype>
+					<type type="string">poison</type>
+				</id-00200>
+				<id-00201>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Inner Sea Gods pg. 279</i></p>
+					</description>
+					<duration_interval type="number">4</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Accomplice Devil (Hesperian) Poison</name>
+					<poison_effect_primary type="string">1d2 CON damage</poison_effect_primary>
+					<poison_effect_secondary type="string"></poison_effect_secondary>
+					<save_string type="string">DC 13 Fort 1/round for 4 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">13</savedc>
+					<savesreq type="number">1</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">poison</type>
+				</id-00201>
+				<id-00202>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 3 pg. 7</i></p>
+					</description>
+					<duration_interval type="number">4</duration_interval>
+					<duration_unit type="string">1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Nettlefin Toxin</name>
+					<poison_effect_primary type="string">paralyzed for 1 minute</poison_effect_primary>
+					<poison_effect_secondary type="string"></poison_effect_secondary>
+					<save_string type="string">DC 15 Fort 1/minute for 4 minutes</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">15</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (spear)</subtype>
+					<type type="string">poison</type>
+				</id-00202>
+				<id-00203>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 3 pg. 22</i></p>
+					</description>
+					<duration_interval type="number">6</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Aghasura Asura Poison</name>
+					<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
+					<poison_effect_secondary type="string"></poison_effect_secondary>
+					<save_string type="string">DC 23 Fort 1/round for 6 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">23</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite or weapon)</subtype>
+					<type type="string">poison</type>
+				</id-00203>
+				<id-00204>
+					<description type="formattedtext">
+						<p>Parasites such as botfly larvae cause infestations, a type of aff liction similar to diseases. Infestations can only be cured through specific means; otherwise, no matter how many saving throws are made, the infestation continues to afflict the target. While a remove disease spell (or similar effect) instantly halts an infestation, immunity to disease offers no protection, as the infestation itself is caused by parasites.</p>
+						<p><b>Source </b><i>Heart of the Jungle pg. 59</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 CON damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<locked type="number">0</locked>
+					<name type="string">Botfly larvae</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 14 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">14</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string"></subtype>
+					<type type="string">infestation</type>
+				</id-00204>
+				<id-00205>
+					<description type="formattedtext">
+						<p>Upon each successful sting attack, the giant botfly implants an egg in the victim subcutaneously. Each implanted egg reacts to the warmth of the victim's body, triggering its hatching. One day later, the egg releases a pupa that devours the host's flesh as it develops, growing to the size of a small mouse, at which point it reaches its larval stage. If left untreated, the larva continues to develop until it kills the host or 1 week has passed, at which point it burrows out of the body and drops to the ground, where it transforms into an adult giant botfly. Individual larvae may be squeezed or cut out of the host with a DC 10 Heal check, though each attempt inflicts 1d4 points of damage whether or not it's successful. A cure disease spell destroys all larvae without further harm to the host.</p>
+						<p><b>Source </b><i>Heart of the Jungle pg. 59</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1 CON damage per larva</p>
+					</disease_effect>
+					<duration_interval type="number">1</duration_interval>
+					<duration_unit type="string">10080</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<locked type="number">0</locked>
+					<name type="string">Giant botfly larvae</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 10 Fort 1/day for 1 week after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">10</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string"></subtype>
+					<type type="string">infestation</type>
+				</id-00205>
+				<id-00206>
+					<description type="formattedtext">
+						<p>An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be nauseated for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The save DC is Charisma-based.</p>
+						<p><b>Source </b><i>Bestiary 3 pg. 65</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Str damage</p>
+					</disease_effect>
+					<duration_interval type="number">6</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Deathweb</name>
+					<save_string type="string">DC 17 Fort 1/round for 6 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">17</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">poison</type>
+				</id-00206>
+				<id-00207>
+					<description type="formattedtext">
+						<p>applying flame to the infested character deals 1d6 points of fire damage but immediately destroys the infestation; blight, reduce plants, and remove disease also automatically destroy the infestation. (See page 245 of the GameMastery Guide for more details on infestations.)</p>
+						<p><b>Source </b><i>Pathfinder #39: The City of Seven Spears pg. 83</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1 Con damage</p>
+					</disease_effect>
+					<duration_interval type="number">3</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<locked type="number">0</locked>
+					<name type="string">Vireseed Swarm Infestation</name>
+					<save_string type="string">DC 17 Fort 1/round for 3 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">17</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (swarm)</subtype>
+					<type type="string">infestation</type>
+				</id-00207>
+				<id-00208>
+					<description type="formattedtext">
+						<p>A wolf-in-sheep's-clothing can infest a creature with its eggs in one of two ways. A creature that eats a carcass used by the monster as a corpse lure automatically becomes implanted. Alternatively, up to once per day, a wolf-in-sheep's-clothing can implant an egg into a helpless or pinned creature as part of a grapple action. The target can resist being implanted with a DC 19 Fortitude save, but if it fails, the seed gestates and becomes a self-aware creature that slowly steals nourishment from its host before finally exploding free of its host's gut. The parasite can be cut free of the host's belly with a DC 25 Heal check, which takes 1 hour and deals 3d6 slashing damage regardless of success or failure. Remove disease (or any similar effect) also kills an implanted egg.</p>
+						<p><b>Source </b><i>Bestiary 3 pg. 285</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Str damage until host reaches 0, then 3d6 damage as parasite bursts free.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Wolf-in-Sheep's-Clothing Egg</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 19 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">19</savedc>
+					<savesreq type="number">3</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">ingestion</subtype>
+					<type type="string">infestation</type>
+				</id-00208>
+				<id-00209>
+					<description type="formattedtext">
+						<p>This infestation can be cured only by magic. A creature whose Constitution score is reduced to 0 by this infestation dies and rises in 1d4 rounds as a seeded creature (see page 90). This is an infestation effect. The save DC is Constitution-based.</p>
+						<p><b>Source </b><i>Pathfinder #113: What Grows Within pg. 86</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Con drain</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Seeded Infestation</name>
+					<save_string type="string">DC 41 Fort 1/day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">41</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">ingestion</subtype>
+					<type type="string">infestation</type>
+				</id-00209>
+				<id-00210>
+					<description type="formattedtext">
+						<p>Whenever an urhag hits with its sting attack, it inflicts a hideous infection. Creatures suffering from red plague quickly develop large, red, pus-leaking blisters across their bodies; when a creature dies of red plague, all of these blisters pop at once, each releasing a tadpole-sized larval urhag. Red plague is a disease effect.</p>
+						<p><b>Source </b><i>Bestiary 6 pg. 269</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d3 Con damage and 1d3 Int damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Red Plague</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 15 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">15</savedc>
+					<savetype type="string">fortitude</savetype>
+					<savesreq type="number">2</savesreq>
+					<subtype type="string">injury (sting)</subtype>
+					<type type="string">disease</type>
+				</id-00210>
 			</category>
 		</diseases>
 	</reference>
