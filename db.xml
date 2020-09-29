@@ -5457,6 +5457,93 @@
 					<subtype type="string">injury (sting)</subtype>
 					<type type="string">disease</type>
 				</id-00210>
+				<id-00211>
+					<description type="formattedtext">
+						<p>An infected creature who dies rises as a void zombie 2d4 hours later</p>
+						<p><b>Source </b><i>Bestiary 2 pg. 22</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Dex and 1d2 Con damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Void Death</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">60</onset_unit>
+					<save_string type="string">DC 12 Fort 1/day after 1 hour</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">12</savedc>
+					<savetype type="string">fortitude</savetype>
+					<savesreq type="number">2</savesreq>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00211>
+				<id-00212>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 6 pg. 160</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d8 Con drain and nauseated for 24 hours</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Soul Plague</name>
+					<save_string type="string">DC 42 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">42</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00212>
+				<id-00213>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 3 pg. 126</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Con damage, 1d2 Cha drain</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Ash Leprosy</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1</onset_unit>
+					<save_string type="string">DC 23 Fort 1/day after 1 minute</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">23</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00213>
+				<id-00214>
+					<description type="formattedtext">
+						<p>A creature that dies of wormrot transforms into a benaioh over the course of the next 24 hours.</p>
+						<p><b>Source </b><i>Pathfinder #93: Forge of the Giant God pg. 84</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>Sickened plus 1d3 Con damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Wormrot</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">1</onset_unit>
+					<save_string type="string">DC 20 Fort 1/day after 1 minute</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">20</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">contact</subtype>
+					<type type="string">disease</type>
+				</id-00214>
 			</category>
 		</diseases>
 	</reference>
