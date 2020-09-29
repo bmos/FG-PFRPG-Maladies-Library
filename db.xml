@@ -5544,6 +5544,167 @@
 					<subtype type="string">contact</subtype>
 					<type type="string">disease</type>
 				</id-00214>
+				<id-00215>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 2 pg. 193</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d3 Con damage and 1d3 Wis Damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Malaria</name>
+					<onset_dice type="dice">d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 17 Fort 1/day after 1d3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">17</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00215>
+				<id-00216>
+					<description type="formattedtext">
+						<p>A creature bitten by a ximtal is exposed to a debilitating disease called forsaken agony. As the disease progresses, it causes the sufferer to grow pale and distracted, to suffer increasing loss of sensory input, and to eventually die of ennui induced by isolation and despair. Those who suffer from forsaken agony are strangely contagious to others-the sickness can be spread by touch, but only when the creature suffering from the disease touches another creature when no other creatures are within line of sight. Forsaken agony is not contagious when the sufferer can see two or more creatures. When transmitted via contact with another victim, the save DC to resist the disease decreases by 4, so that only a successful DC 27 Fortitude save is needed to resist contracting the sickness from an infected host or to avoid its ongoing ravages.</p>
+						<p>Each time a creature fails a saving throw against forsaken agony, it must also roll 1d6 to determine what sense it permanently loses, as follows.</p>
+						<table>
+							<tr>
+								<td>d6</td>
+								<td colspan="10">Sense</td>
+							</tr>
+							<tr>
+								<td>1</td>
+								<td colspan="10">Taste: The creature takes a -2 penalty on all saving throws against ingested toxins and on Perception checks based on the sense of taste, such as using the skill to identify the powers of a sipped potion.</td>
+							</tr>
+							<tr>
+								<td>2</td>
+								<td colspan="10">Smell: The creature loses scent and scent-related abilities.</td>
+							</tr>
+							<tr>
+								<td>3</td>
+								<td colspan="10">Touch: The creature's Dexterity is reduced by 2.</td>
+							</tr>
+							<tr>
+								<td>4</td>
+								<td colspan="10">Hearing: The creature becomes deaf.</td>
+							</tr>
+							<tr>
+								<td>5</td>
+								<td colspan="10">Sight: The creature becomes blind.</td>
+							</tr>
+							<tr>
+								<td>6</td>
+								<td colspan="10">All: The creature immediately loses all of its senses.</td>
+							</tr>
+						</table>
+						<p>If a creature rolls a result that it's already suffering from, it instead suffers the next highest result that it's not currently suffering. A creature that has lost the use of all senses that fails a saving throw against forsaken agony instead takes 1d4 points of Constitution drain. The save DC is Constitution-based and does not include the +2 bonus from the ximtal's despoil ability.</p>
+						<p><b>Source </b><i>Bestiary 2 pg. 193</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 Wisdom drain plus sensory loss</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Forsaken Agony</name>
+					<save_string type="string">DC 29 Fort 1/day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">29</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00216>
+				<id-00217>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Bestiary 6 pg. 143</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 Cha damage and 1d6 Con damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Viridium Leprosy</name>
+					<save_string type="string">DC 24 Fort 1/day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">24</savedc>
+					<savesreq type="number">3</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00217>
+				<id-00218>
+					<description type="formattedtext">
+						<p>Ubashki rot is both a curse and a disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of ubashki rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed at a DC 20 caster level check, or the spell is wasted and the healing has no effect.</p>
+						<p><b>Source </b><i>Bestiary 6 pg. 143</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d6 Str and 1d6 Wis</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">0</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Ubashki Rot</name>
+					<onset_interval type="number">1</onset_interval>
+					<onset_unit type="string">60</onset_unit>
+					<save_string type="string">DC 16 Fort 1/day after 1 hour</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">16</savedc>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00218>
+				<id-00219>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Pathfinder #88: Valley of the Brain Collectors pg. 88</i></p>
+					</description>
+					<duration_interval type="number">6</duration_interval>
+					<duration_unit type="string">.1</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">.1</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Ugothokra Poison</name>
+					<poison_effect_primary type="string">1d4 Con plus sickened for 1 round</poison_effect_primary>
+					<poison_effect_secondary type="string"></poison_effect_secondary>
+					<save_string type="string">DC 19 Fort 1/round for 6 rounds</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">19</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">poison</type>
+				</id-00219>
+				<id-00220>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Pathfinder Campaign Setting: Lost Kingdoms pg. 19</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Str damage and 1d2 Wis damage</p>
+						<p>A creature afflicted by ubashki fever develops unsightly splotches and sores all over its body that persist until the disease is cured.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Ubashki Fever</name>
+					<onset_dice type="dice">d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 13 Fort 1/day after 1d3 days</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">13</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00220>
 			</category>
 		</diseases>
 	</reference>
