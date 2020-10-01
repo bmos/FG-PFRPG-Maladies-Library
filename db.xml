@@ -257,6 +257,7 @@
 					<type type="string">disease</type>
 				</id-00005>
 				<id-00006>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
@@ -281,6 +282,7 @@
 					<type type="string">disease</type>
 				</id-00006>
 				<id-00007>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<h>Fortitude Save DC 12 negates on first contact.</h>
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
@@ -329,6 +331,7 @@
 					<type type="string">disease</type>
 				</id-00008>
 				<id-00009>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast. The save DC is Charisma-based.</p>
 						<p><b>Source </b><i>Pathfinder RPG Bestiary pg. 146</i></p>
@@ -683,6 +686,7 @@
 					<type type="string">disease</type>
 				</id-00023>
 				<id-00024>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p><b>Source </b><i>PRPG Core Rulebook pg. 557</i></p>
 					</description>
@@ -995,6 +999,7 @@
 					<type type="string">disease</type>
 				</id-00035>
 				<id-00036>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>A humanoid afflicted with Moxix's delectation must attempt a new Will save each day. If the humanoid fails, it attacks and attempts to eat the weakest humanoid nearby. If the save is successful, it resists. A humanoid who dies or is killed while afflicted rises as a ghast at the next midnight. The save DC is Charisma-based.</p>
 						<p><b>Source </b><i>Pathfinder #58: Island of Empty Eyes pg. 67</i></p>
@@ -4884,6 +4889,7 @@
 					<type type="string">disease</type>
 				</id-00185>
 				<id-00186>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>Creatures afflicted with bog rot do not heal naturally and gain only one-half benefit from magical healing until the disease is cured. Unlike normal diseases, bog rot continues until the victim reaches Constitution 0 (and dies) or receives a remove disease spell or similar magic. The save DC is Charisma-based.</p>
 						<p><b>Source </b><i>--data missing--</i></p>
@@ -5195,6 +5201,7 @@
 					<type type="string">disease</type>
 				</id-00198>
 				<id-00199>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p><h>DC = 10 + 1/2 the zombie's Hit Dice + the zombie's Cha modifier.</h></p>
 						<p>Anyone who dies while infected rises as a plague zombie in 2d6 hours.</p>
@@ -5348,6 +5355,7 @@
 					<type type="string">infestation</type>
 				</id-00205>
 				<id-00206>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be nauseated for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The save DC is Charisma-based.</p>
 						<p><b>Source </b><i>Bestiary 3 pg. 65</i></p>
@@ -5415,6 +5423,7 @@
 					<type type="string">infestation</type>
 				</id-00208>
 				<id-00209>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>This infestation can be cured only by magic. A creature whose Constitution score is reduced to 0 by this infestation dies and rises in 1d4 rounds as a seeded creature (see page 90). This is an infestation effect. The save DC is Constitution-based.</p>
 						<p><b>Source </b><i>Pathfinder #113: What Grows Within pg. 86</i></p>
@@ -5567,6 +5576,7 @@
 					<type type="string">disease</type>
 				</id-00215>
 				<id-00216>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>A creature bitten by a ximtal is exposed to a debilitating disease called forsaken agony. As the disease progresses, it causes the sufferer to grow pale and distracted, to suffer increasing loss of sensory input, and to eventually die of ennui induced by isolation and despair. Those who suffer from forsaken agony are strangely contagious to others-the sickness can be spread by touch, but only when the creature suffering from the disease touches another creature when no other creatures are within line of sight. Forsaken agony is not contagious when the sufferer can see two or more creatures. When transmitted via contact with another victim, the save DC to resist the disease decreases by 4, so that only a successful DC 27 Fortitude save is needed to resist contracting the sickness from an infected host or to avoid its ongoing ravages.</p>
 						<p>Each time a creature fails a saving throw against forsaken agony, it must also roll 1d6 to determine what sense it permanently loses, as follows.</p>
