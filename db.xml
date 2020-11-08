@@ -1072,6 +1072,7 @@
 					<type type="string">disease</type>
 				</id-00038>
 				<id-00039>
+					<dc_notifier type="number">1</dc_notifier>
 					<description type="formattedtext">
 						<p>The best cure for this disease is dosing the patient with the poison arsenic ( <i>Pathfinder RPG Core Rulebook 558 </i>) - if the patient survives, there's a cumulative 30% chance that the disease is immediately cured.</p>
 						<p><b>Source </b><i>Heart of the Jungle pg. 8</i></p>
@@ -5715,6 +5716,129 @@
 					<subtype type="string">injury</subtype>
 					<type type="string">disease</type>
 				</id-00220>
+				<id-00221>
+					<dc_notifier type="number">1</dc_notifier>
+					<description type="formattedtext">
+						<p>The save DC is Charisma-based.</p>
+						<p><b>Source </b><i>Pathfinder Bestiary 4 pg. 125</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Str and 1d4 Dex damage</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Seaside rot</name>
+					<onset_interval type="number">1</onset_dice>
+					<onset_unit type="string">60</onset_unit>
+					<save_string type="string">DC 21 Fort 1/day after 1 minute</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">21</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury</subtype>
+					<type type="string">disease</type>
+				</id-00221>
+				<id-00222>
+					<dc_notifier type="number">1</dc_notifier>
+					<description type="formattedtext">
+						<p>The save DC is Constitution-based.</p>
+						<p><b>Source </b><i>Pathfinder #129: The Twilight Child pg. 82</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d4 Con and 1d4 Str damage</p>
+					</disease_effect>
+					<duration_interval type="number">6</duration_interval>
+					<duration_unit type="string">60</duration_unit>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">60</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Shuck's Kiss</name>
+					<onset_interval type="number">1</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 18 Fort 1/hour for 6 hours after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">18</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00222>
+				<id-00223>
+					<dc_notifier type="number">1</dc_notifier>
+					<description type="formattedtext">
+						<p>The DC save is Constitution-based.</p>
+						<p><b>Source </b><i>Pathfinder #62: Curse of the Lady's Light pg. 84</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Str damage and shaken</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Bogwid Fever</name>
+					<onset_interval type="number">1</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 16 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">16</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00223>
+				<id-00224>
+					<description type="formattedtext">
+						<p><b>Source </b><i>Pathfinder Bestiary 2 pg. 64</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d2 Wis damage</p>
+						<p>In addition to the normal effects of the disease, as long as a victim is infected, the cacodaemon can telepathically communicate with the creature over any distance (as long as they remain on the same plane).</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Cacodaemonia</name>
+					<onset_interval type="number">1</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 12 Fort 1/day after 1 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">12</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00224>
+				<id-00225>
+					<dc_notifier type="number">1</dc_notifier>
+					<description type="formattedtext">
+						<p>The save DC is Constitution-based.</p>
+						<p><b>Source </b><i>Pathfinder Bestiary 2 pg. 64</i></p>
+					</description>
+					<disease_effect type="formattedtext">
+						<p>1d3 Str and 1d3 Dex damage<p>
+						</p>Target must succeed at a second Fortitude save or 1 point of each type of ability damage is drain instead</p>
+						</p>The secondary save to keep damage from becoming drain does not count toward the saves required to cure.</p>
+					</disease_effect>
+					<freq_interval type="number">1</freq_interval>
+					<freq_unit type="string">1440</freq_unit>
+					<isconsecutive type="number">1</isconsecutive>
+					<locked type="number">0</locked>
+					<name type="string">Waste Trembles</name>
+					<onset_dice type="dice">1d3</onset_dice>
+					<onset_unit type="string">1440</onset_unit>
+					<save_string type="string">DC 18 Fort 1/day after 1d3 day</save_string>
+					<savecount_consec type="number">0</savecount_consec>
+					<savedc type="number">18</savedc>
+					<savesreq type="number">2</savesreq>
+					<savetype type="string">fortitude</savetype>
+					<subtype type="string">injury (bite)</subtype>
+					<type type="string">disease</type>
+				</id-00225>
 			</category>
 		</diseases>
 	</reference>
