@@ -5730,7 +5730,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Seaside rot</name>
-					<onset_interval type="number">1</onset_dice>
+					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<save_string type="string">DC 21 Fort 1/day after 1 minute</save_string>
 					<savecount_consec type="number">0</savecount_consec>
@@ -5756,7 +5756,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Shuck's Kiss</name>
-					<onset_interval type="number">1</onset_dice>
+					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 18 Fort 1/hour for 6 hours after 1 day</save_string>
 					<savecount_consec type="number">0</savecount_consec>
@@ -5780,7 +5780,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Bogwid Fever</name>
-					<onset_interval type="number">1</onset_dice>
+					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 16 Fort 1/day after 1 day</save_string>
 					<savecount_consec type="number">0</savecount_consec>
@@ -5803,7 +5803,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Cacodaemonia</name>
-					<onset_interval type="number">1</onset_dice>
+					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
 					<save_string type="string">DC 12 Fort 1/day after 1 day</save_string>
 					<savecount_consec type="number">0</savecount_consec>
