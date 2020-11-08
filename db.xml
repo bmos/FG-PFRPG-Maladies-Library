@@ -5820,9 +5820,9 @@
 						<p><b>Source </b><i>Pathfinder Bestiary 2 pg. 64</i></p>
 					</description>
 					<disease_effect type="formattedtext">
-						<p>1d3 Str and 1d3 Dex damage<p>
-						</p>Target must succeed at a second Fortitude save or 1 point of each type of ability damage is drain instead</p>
-						</p>The secondary save to keep damage from becoming drain does not count toward the saves required to cure.</p>
+						<p>1d3 Str and 1d3 Dex damage</p>
+						<p>Target must succeed at a second Fortitude save or 1 point of each type of ability damage is drain instead</p>
+						<p>The secondary save to keep damage from becoming drain does not count toward the saves required to cure.</p>
 					</disease_effect>
 					<freq_interval type="number">1</freq_interval>
 					<freq_unit type="string">1440</freq_unit>
