@@ -437,6 +437,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Devil Chills</name>
+					<npc type="string">devilaccuser</npc>
 					<onset_dice type="dice">d4</onset_dice>
 					<onset_interval type="number">0</onset_interval>
 					<onset_unit type="string">1440</onset_unit>
@@ -2383,6 +2384,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Giant Wasp Poison</name>
+					<npc type="string">waspgiant</npc>
 					<onset_interval type="number">0</onset_interval>
 					<poison_effect_primary type="string">1d2 Dex</poison_effect_primary>
 					<save_string type="string">DC 18 Fort 1/rd for 6 rounds</save_string>
@@ -5238,6 +5240,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Aashaq's Wyvern Poison</name>
+					<npc type="string">aashaqswyvern</npc>
 					<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
 					<poison_effect_secondary type="string"></poison_effect_secondary>
 					<save_string type="string">DC 19 Fort 1/round for 6 rounds</save_string>
@@ -5259,6 +5262,7 @@
 					<isconsecutive type="number">0</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Accomplice Devil (Hesperian) Poison</name>
+					<npc type="string">devilaccomplice;accomplicedevil</npc>
 					<poison_effect_primary type="string">1d2 CON damage</poison_effect_primary>
 					<poison_effect_secondary type="string"></poison_effect_secondary>
 					<save_string type="string">DC 13 Fort 1/round for 4 rounds</save_string>
@@ -5280,6 +5284,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Nettlefin Toxin</name>
+					<npc type="string">adaro</npc>
 					<poison_effect_primary type="string">paralyzed for 1 minute</poison_effect_primary>
 					<poison_effect_secondary type="string"></poison_effect_secondary>
 					<save_string type="string">DC 15 Fort 1/minute for 4 minutes</save_string>
@@ -5301,6 +5306,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Aghasura Asura Poison</name>
+					<npc type="string">asuraaghasura</npc>
 					<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
 					<poison_effect_secondary type="string"></poison_effect_secondary>
 					<save_string type="string">DC 23 Fort 1/round for 6 rounds</save_string>
@@ -5481,6 +5487,7 @@
 					<isconsecutive type="number">1</isconsecutive>
 					<locked type="number">0</locked>
 					<name type="string">Void Death</name>
+					<npc type="string">akata</npc>
 					<onset_interval type="number">1</onset_interval>
 					<onset_unit type="string">60</onset_unit>
 					<save_string type="string">DC 12 Fort 1/day after 1 hour</save_string>
