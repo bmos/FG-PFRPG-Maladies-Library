@@ -12899,6 +12899,25 @@
 				<subtype type="string">injury (bite)</subtype>
 				<type type="string">disease</type>
 			</id-00689>
+			<id-00690>
+				<description type="formattedtext">
+					<p>The save DC is Charisma-based.</p>
+					<p><b>Source </b><i>Inner Sea World Guide</i></p>
+				</description>
+				<type type="string">disease</type>
+				<npc type="string">Daughter of the Dead</npc>
+				<name type="string">Bubonic Plague</name>
+				<subtype type="string">injury</subtype>
+				<savetype type="string">fortitude</savetype>
+				<savedc type="number">20</savedc>
+				<freq_interval type="number">1</freq_interval>
+				<freq_unit type="string">1440</freq_unit>
+				<save_string type="string">Fort DC 20</save_string>
+				<disease_effect type="formattedtext">1d4 Con damage, 1 Cha damage, victim is fatigued</disease_effect>
+				<isconsecutive type="number">1</isconsecutive>
+				<savesreq type="number">2</savesreq>
+			</id-00690>
+
 		</diseases>
 	</reference>
 </root>
