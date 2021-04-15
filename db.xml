@@ -30,13 +30,13 @@
 			</entries>
 		</pfrpgsrdmaladies>
 	</library>
-	<communityuse>
+	<communityuse static="true">
 		<name type="string">Community Use Statement</name>
 		<text type="formattedtext">
 		  <p>This<i>Fantasy Grounds Module</i> uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This<i>Fantasy Grounds Module</i> is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.</p>
 		</text>
 	</communityuse>
-	<license>
+	<license static="true">
 		<librarylink type="windowreference">
 		  <class>referencetextwide</class>
 		  <recordname>..</recordname>
@@ -129,7 +129,7 @@
 		  </list>
 		</text>
 	</license>
-	<reference static="true">
+	<reference>
 		<diseases>
 			<id-00001>
 				<description type="formattedtext">
@@ -143,7 +143,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blightburn Sickness</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -168,7 +167,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blackfrost</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -194,7 +192,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Basidirond Spores</name>
 				<onset_interval type="number">0</onset_interval>
 				<save_string type="string">DC 16 Fort 1/rd for 6 rounds</save_string>
@@ -219,7 +216,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blue Lily Extract (Contact)</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -243,7 +239,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bonecrusher (Dengue)</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">10080</onset_unit>
@@ -267,7 +262,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Filth Fever</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -293,7 +287,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">10080</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Leprosy</name>
 				<onset_dice type="dice">d4,d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -317,7 +310,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Mindfire</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -342,7 +334,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ghoul Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -365,7 +356,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Green Haze</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -388,7 +378,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Shakes</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -411,7 +400,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Brainworms</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -434,7 +422,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Devil Chills</name>
 				<npc type="string">devilaccuser</npc>
 				<onset_dice type="dice">d4</onset_dice>
@@ -459,7 +446,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Daemonic Wasting</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -483,7 +469,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Crypt Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -506,7 +491,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Scarlet Leprosy</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -529,7 +513,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ergia</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -553,7 +536,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Red Drip</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -576,7 +558,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Malaria (Jungle Fever)</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -603,7 +584,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Demonplague</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -626,7 +606,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Demon Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -649,7 +628,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Firegut</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -673,7 +651,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Chillbane Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -697,7 +674,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bubonic Plague</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">60</onset_unit>
@@ -721,7 +697,6 @@
 				<freq_interval type="number">0.5</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">The Scales</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -745,7 +720,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Pulsing Puffs</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -768,7 +742,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dysentary</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -793,7 +766,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dvezda Plague</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -817,7 +789,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cackle Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -841,7 +812,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Boot Soup</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -864,7 +834,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bonechill</name>
 				<onset_interval type="number">16</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -889,7 +858,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blood Veil</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -912,7 +880,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blinding Sickness</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -961,7 +928,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Spellscar Fever</name>
 				<onset_dice type="dice">d6,d6</onset_dice>
 				<onset_interval type="number">1</onset_interval>
@@ -985,7 +951,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Red Ache</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -1011,7 +976,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Moxix's Delectation</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -1034,7 +998,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">10080</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Greenscale</name>
 				<onset_dice type="dice">d6</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -1059,7 +1022,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Glacier Plague</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -1084,7 +1046,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Sleeping Sickness</name>
 				<onset_dice type="dice">d2</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -1108,7 +1069,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Slimy Doom</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -1134,7 +1094,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blue Lily Extract (Injested)</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1162,7 +1121,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Lethe Water</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d4 Int and Cha damage (cannot reduce a creature's Int or Cha below 1)</poison_effect_primary>
@@ -1187,7 +1145,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Maiden Lily Attar</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">unconscious for 1 minute</poison_effect_primary>
@@ -1214,7 +1171,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Quicklime</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Con damage, blindness and nausea for 1d10 minutes</poison_effect_primary>
@@ -1240,7 +1196,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Slow Nectar</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Dex damage plus paralysis for 1 round</poison_effect_primary>
@@ -1265,7 +1220,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Spidervine Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">paralysis</poison_effect_primary>
@@ -1292,7 +1246,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Pupil's Friend</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1318,7 +1271,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Red Tears</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d6 points of damage. Creatures immune to bleed effects are immune to this damage</poison_effect_primary>
@@ -1344,7 +1296,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Might Blight</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -1370,7 +1321,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Addlemind</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1396,7 +1346,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Concentrated Laxative</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1422,7 +1371,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Drow Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">unconscious 1 minute</poison_effect_primary>
@@ -1448,7 +1396,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Gelidburn Oil</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">This greasy pale-blue liquid delivers a shocking sensation that is both freezing cold and searing hot. Gelidburn oil is popular among pickpockets looking to stab, snatch, and run.</poison_effect_primary>
@@ -1474,7 +1421,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Goblin's Eye</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1500,7 +1446,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Vampire's Kiss</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Con damage</poison_effect_primary>
@@ -1526,7 +1471,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Confabulation Powder</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">staggered for 1 minute</poison_effect_primary>
@@ -1552,7 +1496,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Baneberry (Ingested)</name>
 				<onset_interval type="number">30</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1576,7 +1519,6 @@
 				<duration_interval type="number">0</duration_interval>
 				<freq_interval type="number">1</freq_interval>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Oil of Taggit</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1602,7 +1544,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Small Centipede Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Dex</poison_effect_primary>
@@ -1627,7 +1568,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Thornapple</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1653,7 +1593,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Belladonna</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1679,7 +1618,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bloodroot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -1705,7 +1643,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bloodwine</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">sickened for 1d4 hours</poison_effect_primary>
@@ -1731,7 +1668,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Baneberry (Injury)</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -1757,7 +1693,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Frightshade</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">This plant's pollen contains a powerful hallucinogen that causes affected creatures to experience terribly realistic visions of death and destruction. The target is shaken until the beginning of her next turn. When the target succeeds at her saving throw against the poison, or when the initial duration ends, she is shaken for an additional 1d4 rounds. (This is not a fear effect.)</poison_effect_primary>
@@ -1782,7 +1717,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Frostspore</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d6 cold damage plus staggered for 1 round</poison_effect_primary>
@@ -1807,7 +1741,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Greenblood Oil</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Con</poison_effect_primary>
@@ -1832,7 +1765,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Woundweal</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -1858,7 +1790,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Arsenic</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1884,7 +1815,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Black Adder Venom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Con</poison_effect_primary>
@@ -1909,7 +1839,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blue Whinnis</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Con</poison_effect_primary>
@@ -1935,7 +1864,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Calotropis</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Wis damage and 1d3 Dex damage</poison_effect_primary>
@@ -1960,7 +1888,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Liquid Persuasion</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -1986,7 +1913,6 @@
 				<duration_interval type="number">0</duration_interval>
 				<freq_interval type="number">1</freq_interval>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Goblinvine Oil</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -2012,7 +1938,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Id Moss</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2039,7 +1964,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Draughtcap Fungus</name>
 				<onset_dice type="dice">d6,d6,d6,d6</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -2066,7 +1990,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Indigo Dreams</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2094,7 +2017,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Marvelous Fear Gas</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">shaken for 10 minutes (this can't produce a more severe fear effect)</poison_effect_primary>
@@ -2120,7 +2042,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Medium Spider Venom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
@@ -2146,7 +2067,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Rainbow Scarab Shell</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -2172,7 +2092,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Alchemical Isolation</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">deafened for 10 minutes</poison_effect_primary>
@@ -2199,7 +2118,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Insecticide</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Str damage (creatures with the vermin type are stunned for 1 round)</poison_effect_primary>
@@ -2224,7 +2142,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Striped Toadstool</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2251,7 +2168,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Black Whinnis</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Con damage</poison_effect_primary>
@@ -2278,7 +2194,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Chelish Deathapple</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2305,7 +2220,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Hazemind Concentrate</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -2331,7 +2245,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Large Scorpion Venom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
@@ -2356,7 +2269,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Spellscorch</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">Refined from rare underground crystals, this poison causes a burning headache that impedes spellcasting. If the target fails its Fortitude save, for the next minute the target must make a Concentration check with a DC equal to 10 + spell level to cast a spell, and all other concentration checks to cast spells take a -5 penalty.</poison_effect_primary>
@@ -2381,7 +2293,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Giant Wasp Poison</name>
 				<npc type="string">waspgiant</npc>
 				<onset_interval type="number">0</onset_interval>
@@ -2407,7 +2318,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Hazemind Mist</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -2433,7 +2343,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Diplopic Serum</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Wis damage. Additionally, the creature has double vision, imposing a 50% miss chance on its attacks against all opponents. Blind creatures are unaffected by this additional effect</poison_effect_primary>
@@ -2458,7 +2367,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Malyass Root Paste</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2485,7 +2393,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nymph's Lure</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -2512,7 +2419,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Shadow Essence</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Str drain</poison_effect_primary>
@@ -2539,7 +2445,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blackfinger's Salt</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2565,7 +2470,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Sassone Leaf Residue</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2592,7 +2496,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Sloth's Bite</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">This poison causes the affected creature to be sluggish and slow to react. The target takes 1d2 points of Dexterity damage and is flat-footed until the beginning of her next turn</poison_effect_primary>
@@ -2618,7 +2521,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Starving Nettle</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Dex and Con damage. In addition, each time the creature fails a save against the poison, for the following 24 hours it is overwhelmed with nausea whenever food is presented to it and is unable to bring itself to eat, no matter how hungry it becomes.</poison_effect_primary>
@@ -2643,7 +2545,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Count Ambras's Punishment</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2671,7 +2572,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ossivane</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Dex</poison_effect_primary>
@@ -2697,7 +2597,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Slaver's Will</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2724,7 +2623,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blackfinder's Silence</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">unable to speak (even to cast spells) for 1 round</poison_effect_primary>
@@ -2750,7 +2648,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bloodbrain Venom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d6 Str damage and scented for 10 minutes</poison_effect_primary>
@@ -2776,7 +2673,6 @@
 				<duration_unit type="string">.1</duration_unit>
 				<freq_interval type="number">1</freq_interval>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Brinestump Special</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -2803,7 +2699,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cloudthorn Venom</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -2831,7 +2726,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Gray Justice</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Wis, see text</poison_effect_primary>
@@ -2856,7 +2750,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Lich Dust</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2882,7 +2775,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Peasant's Woe</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">-10 ft. to base speed for 1d6 minutes</poison_effect_primary>
@@ -2908,7 +2800,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Rainbow Jellyfish Toxin</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">staggered for 1d6 rounds</poison_effect_primary>
@@ -2934,7 +2825,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Swampseer Poison</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -2962,7 +2852,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Fool's Leprosy</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -2987,7 +2876,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Kiss of Barbatos</name>
 				<onset_dice type="dice">d6</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -3015,7 +2903,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Widow's Kiss</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -3042,7 +2929,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Tears of Death</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3067,7 +2953,6 @@
 				<duration_interval type="number">0</duration_interval>
 				<freq_interval type="number">1</freq_interval>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Shamweed</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">+1 Con/day for 1 week</poison_effect_primary>
@@ -3092,7 +2977,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Whisperwound</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3117,7 +3001,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">King's Sleep</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -3143,7 +3026,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Leopard's Bane</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3169,7 +3051,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Black Lotus Extract</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3196,7 +3077,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cyanide</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3222,7 +3102,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Wyvern Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d4 Con</poison_effect_primary>
@@ -3248,7 +3127,6 @@
 				<freq_interval type="number">0.1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Styx Sap</name>
 				<onset_dice type="dice">d4</onset_dice>
 				<onset_interval type="number">0</onset_interval>
@@ -3275,7 +3153,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Snap Will</name>
 				<onset_interval type="number">5</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3302,7 +3179,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Hydrofluoric Acid</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3328,7 +3204,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Hemlock</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3354,7 +3229,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Everwake Serum</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">cannot voluntarily rest or sleep (spells such as sleep still function as normal), preventing spellcasters who need to rest to regain or prepare spells from doing so</poison_effect_primary>
@@ -3381,7 +3255,6 @@
 				<freq_interval type="number">0.1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dreaming Death</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3408,7 +3281,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dream Crystal Toxin</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Int drain (a creature currently suffering the curse of bestial dreams transforms into an id mutant once its Intelligence is reduced by 6 points or reaches a score of 1, whichever comes first)</poison_effect_primary>
@@ -3434,7 +3306,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Grinding Joint Paste</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3460,7 +3331,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Burnt Othur Fumes</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Con drain</poison_effect_primary>
@@ -3486,7 +3356,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nightmare Vapor</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Wis and confused 1 round</poison_effect_primary>
@@ -3511,7 +3380,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Deathblade</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Con</poison_effect_primary>
@@ -3536,7 +3404,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Aconite Root</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3564,7 +3431,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Mindrust</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Wis damage and suggestible for 1 minute per point of Wis damage taken; see above</poison_effect_primary>
@@ -3590,7 +3456,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Scholarblight</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Int, see text</poison_effect_primary>
@@ -3616,7 +3481,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nerveblast</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Dex drain and shaken for 1 hour. The shaken condition progresses to more severe fear effects if the affected creature fails additional Fortitude saving throws against the poison. These more severe effects have the same duration as the initial shaken effect</poison_effect_primary>
@@ -3642,7 +3506,6 @@
 				<freq_interval type="number">0.1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Leng's Tears</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -3668,7 +3531,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Insanity Mist</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Wis</poison_effect_primary>
@@ -3693,7 +3555,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Hag Spit</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">blindness for 1d10 rounds</poison_effect_primary>
@@ -3719,7 +3580,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dragon Bile</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
@@ -3744,7 +3604,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Demon Nettle Sap</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Wis drain</poison_effect_primary>
@@ -3771,7 +3630,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Breath of the Mantis God</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d4 bleed; see text</poison_effect_primary>
@@ -3797,7 +3655,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Azure Lily Pollen</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">nauseated 1 minute</poison_effect_primary>
@@ -3824,7 +3681,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Skinsap Extract</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">staggered and confused (see description)</poison_effect_primary>
@@ -3851,7 +3707,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Red Bedlam</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -3877,7 +3732,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Lungtaker</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d6 Str; If this poison's accumulated Strength damage ever exceeds the victim's Strength score, the victim immediately begins to suffocate (Core Rulebook 445). A DC 17 Heal check (or any amount of magical healing) is enough to stop this suffocation before the victim dies.</poison_effect_primary>
@@ -3902,7 +3756,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Lungsap Powder</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">This fine powder absorbs the oxygen from the lungs of any creature that breathes it in, causing the creature to gradually asphyxiate. The target has difficulty breathing and is staggered. If the target suffers the effect for 4 rounds, he falls unconscious for 1 minute at the end of the fourth round</poison_effect_primary>
@@ -3928,7 +3781,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blistercap Spore</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Dex drain and 1 Con drain</poison_effect_primary>
@@ -3954,7 +3806,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ungol Dust</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Cha drain</poison_effect_primary>
@@ -3981,7 +3832,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ragespittle</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4007,7 +3857,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cockatrice Spit</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Dex damage (a creature who takes Dexterity damage equal to its Dexterity score from this poison becomes petrified; each day, a petrified victim can attempt a new DC 12 Fortitude save to recover from the venom and become unpetrified with an amount of Dexterity damage equal to 1 point less than its Dexterity score)</poison_effect_primary>
@@ -4033,7 +3882,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bloodpyre</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1 Cha, Int, and Wis, 2d6 fire, see text</poison_effect_primary>
@@ -4059,7 +3907,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Third Eye</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4087,7 +3934,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Sweetdream</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -4115,7 +3961,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nights-Eye Dust</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">shaken</poison_effect_primary>
@@ -4141,7 +3986,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Fury Gas</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">Non-orcs are blinded for 1 minute. Orcs rage for 1 minute, gaining a +2 alchemical bonus to Strength and Dexterity, a +1 alchemical bonus on Will saves, and a -2 penalty to AC. This poison's effects are otherwise similar to a barbarian's rage, except that affected orcs are unable to discern friend from foe - attacking the nearest creature each round - and they are not fatigued afterward</poison_effect_primary>
@@ -4166,7 +4010,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Flaming Doom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d6 fire damage and victim possibly catches on fire (see Pathfinder RPG Core Rulebook 444)</poison_effect_primary>
@@ -4192,7 +4035,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Violet Venom</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Str and Con damage</poison_effect_primary>
@@ -4217,7 +4059,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dark Reaver Powder</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4243,7 +4084,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cytillesh Extract</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">The victim loses all memory of events that took place in the previous hour and can't form new memories for 8 hours. These lost and prevented memories might return later in the form of dreams, and can be returned with a restoration or heal spell</poison_effect_primary>
@@ -4268,7 +4108,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Brain Blot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4295,7 +4134,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Black Spider Marsh Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d4 Dex and confused for 1 round</poison_effect_primary>
@@ -4322,7 +4160,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Vessel Between</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Constitution and Wisdom damage</poison_effect_primary>
@@ -4349,7 +4186,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Twilight Illness</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">nauseated for 1 hour and then sickened for 1 day</poison_effect_primary>
@@ -4375,7 +4211,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Muddling Heresy</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d4+1 Wis damage</poison_effect_primary>
@@ -4419,7 +4254,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Liquid Leprosy</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4445,7 +4279,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Juvebloom</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -4471,7 +4304,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Purple Worm Poison</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
@@ -4497,7 +4329,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Witch-Hunter's Sword</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -4523,7 +4354,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nitharit</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4550,7 +4380,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Tongue Twist</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Int damage. Additionally, the creature loses the ability to speak one language at random from the languages he knows for 1 minute. Additional failed saves cause the target to lose the ability to speak additional languages if the target has the ability to speak more than one language. Any creature that can no longer speak a language speaks only gibberish, which prevents casting spells with verbal components</poison_effect_primary>
@@ -4575,7 +4404,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Tears of Perfection</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">.1</onset_unit>
@@ -4602,7 +4430,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Smell of Fear</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Wis damage, and if the victim would become shaken during the next 1 minute, she becomes frightened instead</poison_effect_primary>
@@ -4629,7 +4456,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Jackalroot Essence</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">uncontrollble laughter (as per hideous laughter)</poison_effect_primary>
@@ -4656,7 +4482,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Crone's Curse</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_unit type="string">60</onset_unit>
@@ -4682,7 +4507,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Wolfsbane</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4708,7 +4532,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Laughing Gas</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">The subject experiences a bout of uncontrollable laughter and is dazed for 1 round</poison_effect_primary>
@@ -4734,7 +4557,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Halo Mushroom Toxin</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4758,7 +4580,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Fiddleback Venom</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4784,7 +4605,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Calistria's Revenge</name>
 				<onset_interval type="number">0</onset_interval>
 				<poison_effect_primary type="string">1d2 Dexterity damage</poison_effect_primary>
@@ -4807,7 +4627,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blue Star</name>
 				<onset_interval type="number">10</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4830,7 +4649,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Terinav Root</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -4854,7 +4672,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Athrakitis</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d6</onset_dice>
@@ -4878,7 +4695,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bluespit</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">60</onset_unit>
@@ -4902,7 +4718,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bog Rot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -4925,7 +4740,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Blister Phage</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -4948,7 +4762,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cholera</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d3</onset_dice>
@@ -4975,7 +4788,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Coward's Mark</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">10080</onset_unit>
@@ -4998,7 +4810,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Dysentery</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d3</onset_dice>
@@ -5022,7 +4833,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Enteric Fever</name>
 				<onset_interval type="number">3</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -5045,7 +4855,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Final Rest</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">10080</onset_unit>
@@ -5068,7 +4877,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Rabies</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d6,d6</onset_dice>
@@ -5092,7 +4900,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Rapture Pox</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d3</onset_dice>
@@ -5118,7 +4925,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Shattermind</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -5141,7 +4947,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Tetanus</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d6</onset_dice>
@@ -5165,7 +4970,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Tuberculosis</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d4</onset_dice>
@@ -5189,7 +4993,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Typhoid Fever</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d4</onset_dice>
@@ -5215,7 +5018,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Zombie Rot</name>
 				<onset_interval type="number">0</onset_interval>
 				<onset_dice type="dice">d4</onset_dice>
@@ -5237,7 +5039,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Aashaq's Wyvern Poison</name>
 				<npc type="string">aashaqswyvern</npc>
 				<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
@@ -5259,7 +5060,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Accomplice Devil (Hesperian) Poison</name>
 				<npc type="string">devilaccomplice;accomplicedevil</npc>
 				<poison_effect_primary type="string">1d2 CON damage</poison_effect_primary>
@@ -5281,7 +5081,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Nettlefin Toxin</name>
 				<npc type="string">adaro</npc>
 				<poison_effect_primary type="string">paralyzed for 1 minute</poison_effect_primary>
@@ -5303,7 +5102,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Aghasura Asura Poison</name>
 				<npc type="string">asuraaghasura</npc>
 				<poison_effect_primary type="string">1d4 CON damage</poison_effect_primary>
@@ -5326,7 +5124,6 @@
 				</disease_effect>
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
-				<locked type="number">0</locked>
 				<name type="string">Botfly larvae</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -5349,7 +5146,6 @@
 				<duration_unit type="string">10080</duration_unit>
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
-				<locked type="number">0</locked>
 				<name type="string">Giant botfly larvae</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -5374,7 +5170,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Deathweb</name>
 				<save_string type="string">DC 17 Fort 1/round for 6 rounds</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5396,7 +5191,6 @@
 				<duration_unit type="string">.1</duration_unit>
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
-				<locked type="number">0</locked>
 				<name type="string">Vireseed Swarm Infestation</name>
 				<save_string type="string">DC 17 Fort 1/round for 3 rounds</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5416,7 +5210,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Wolf-in-Sheep's-Clothing Egg</name>
 				<npc type="string">wolfinsheepsclothing</npc>
 				<onset_interval type="number">1</onset_interval>
@@ -5441,7 +5234,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Seeded Infestation</name>
 				<save_string type="string">DC 41 Fort 1/day</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5461,7 +5253,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Red Plague</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -5484,7 +5275,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Void Death</name>
 				<npc type="string">akata</npc>
 				<onset_interval type="number">1</onset_interval>
@@ -5507,7 +5297,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Soul Plague</name>
 				<save_string type="string">DC 42 Fort 1/day after 1 day</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5526,7 +5315,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ash Leprosy</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -5549,7 +5337,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Wormrot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1</onset_unit>
@@ -5571,7 +5358,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Malaria</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_unit type="string">1440</onset_unit>
@@ -5627,7 +5413,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Forsaken Agony</name>
 				<save_string type="string">DC 29 Fort 1/day</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5647,7 +5432,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Viridium Leprosy</name>
 				<save_string type="string">DC 24 Fort 1/day</save_string>
 				<savecount_consec type="number">0</savecount_consec>
@@ -5668,7 +5452,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">0</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ubashki Rot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">60</onset_unit>
@@ -5688,7 +5471,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">.1</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ugothokra Poison</name>
 				<poison_effect_primary type="string">1d4 Con plus sickened for 1 round</poison_effect_primary>
 				<poison_effect_secondary type="string"></poison_effect_secondary>
@@ -5714,7 +5496,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ubashki Fever</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_unit type="string">1440</onset_unit>
@@ -12989,7 +12770,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Ubashki Fever</name>
 				<onset_dice type="dice">d3</onset_dice>
 				<onset_unit type="string">1440</onset_unit>
@@ -13013,7 +12793,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Seaside rot</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">60</onset_unit>
@@ -13039,7 +12818,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">60</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Shuck's Kiss</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -13063,7 +12841,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Bogwid Fever</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -13086,7 +12863,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Cacodaemonia</name>
 				<onset_interval type="number">1</onset_interval>
 				<onset_unit type="string">1440</onset_unit>
@@ -13112,7 +12888,6 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1440</freq_unit>
 				<isconsecutive type="number">1</isconsecutive>
-				<locked type="number">0</locked>
 				<name type="string">Waste Trembles</name>
 				<onset_dice type="dice">1d3</onset_dice>
 				<onset_unit type="string">1440</onset_unit>
