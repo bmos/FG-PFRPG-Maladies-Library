@@ -6083,22 +6083,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">1</savesreq>
 			</id-00260>
-			<id-00261>
-				<type type="string">poison</type>
-				<npc type="string">Cave Scorpion</npc>
-				<name type="string">Cave Scorpion Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">12</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">4</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 12</save_string>
-				<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">1</savesreq>
-			</id-00261>
 			<id-00262>
 				<type type="string">poison</type>
 				<npc type="string">Centipede Swarm</npc>
@@ -6822,22 +6806,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00306>
-			<id-00307>
-				<type type="string">disease</type>
-				<npc type="string">Druj Nasu</npc>
-				<name type="string">Druj Nasu Disease</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">20</savedc>
-				<onset_interval type="number">1</onset_interval>
-				<onset_unit type="string">60</onset_unit>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Fortitude DC 20</save_string>
-				<disease_effect type="formattedtext">1d3 Constitution damage plus sickened and shaken</disease_effect>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00307>
 			<id-00308>
 				<type type="string">poison</type>
 				<npc type="string">Duneshaker</npc>
@@ -6966,22 +6934,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00315>
-			<id-00316>
-				<type type="string">poison</type>
-				<npc type="string">Ettercap</npc>
-				<name type="string">Ettercap Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">15</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">10</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 15</save_string>
-				<poison_effect_primary type="string">1d2 Dex</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00316>
 			<id-00317>
 				<type type="string">poison</type>
 				<npc type="string">Euryale</npc>
@@ -7286,22 +7238,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">1</savesreq>
 			</id-00335>
-			<id-00336>
-				<type type="string">poison</type>
-				<npc type="string">Giant Bee</npc>
-				<name type="string">Giant Bee Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">12</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">4</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 12</save_string>
-				<poison_effect_primary type="string">1d2 Str</poison_effect_primary>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">1</savesreq>
-			</id-00336>
 			<id-00337>
 				<type type="string">poison</type>
 				<npc type="string">Giant Black Widow</npc>
@@ -8843,12 +8779,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">1</savesreq>
 			</id-00434>
-			<id-00435>
-				<type type="string">disease</type>
-				<npc type="string">Mordogea</npc>
-				<name type="string">Morgod Jelly REMOVEME</name>
-				<subtype type="string">ingested or injury</subtype>
-			</id-00435>
 			<id-00436>
 				<type type="string">disease</type>
 				<npc type="string">Morgodea</npc>
@@ -9026,22 +8956,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00446>
-			<id-00447>
-				<type type="string">poison</type>
-				<npc type="string">Nightmare Ettercap</npc>
-				<name type="string">Nightmare Ettercap Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">15</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">10</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 15</save_string>
-				<poison_effect_primary type="string">1d2 Dex</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00447>
 			<id-00448>
 				<type type="string">poison</type>
 				<npc type="string">Ningyo</npc>
@@ -9092,20 +9006,6 @@
 			<id-00451>
 				<type type="string">disease</type>
 				<npc type="string">Nucol</npc>
-				<name type="string">Nervous Consumption </name>
-				<subtype type="string">injury or contact</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">15</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Fort DC 15</save_string>
-				<disease_effect type="formattedtext">1 point of wisdom damage.   As long as a creature suffering from this illness suffers any Wisdom damage from any source, it takes a –1 penalty to its Armor Class and on ability checks and skill checks</disease_effect>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">0</savesreq>
-			</id-00451>
-			<id-00452>
-				<type type="string">disease</type>
-				<npc type="string">Nucol</npc>
 				<name type="string">Nervous Consumption</name>
 				<subtype type="string">injury or contact</subtype>
 				<savetype type="string">fortitude</savetype>
@@ -9113,10 +9013,10 @@
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<save_string type="string">Fort DC 15</save_string>
-				<disease_effect type="formattedtext">1 point of Wisdom damage. As long as a creature suffering from this illness suffers any Wisdom damage from any source, it takes a –1 penalty to its Armor Class and on ability checks and skill checks.</disease_effect>
+				<disease_effect type="formattedtext">1 point of wisdom damage. As long as a creature suffering from this illness suffers any Wisdom damage from any source, it takes a -1 penalty to its Armor Class and on ability checks and skill checks.</disease_effect>
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">0</savesreq>
-			</id-00452>
+			</id-00451>
 			<id-00453>
 				<type type="string">poison</type>
 				<npc type="string">Nue</npc>
@@ -9165,22 +9065,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">1</savesreq>
 			</id-00455>
-			<id-00456>
-				<type type="string">poison</type>
-				<npc type="string">Ochre Eurypterid</npc>
-				<name type="string">Ochre Eurypterid Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">10</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">4</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 10</save_string>
-				<poison_effect_primary type="string">1 Dex</poison_effect_primary>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">1</savesreq>
-			</id-00456>
 			<id-00457>
 				<type type="string">poison</type>
 				<npc type="string">Octopus</npc>
@@ -9341,22 +9225,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00467>
-			<id-00468>
-				<type type="string">poison</type>
-				<npc type="string">Peuchen</npc>
-				<name type="string">Peuchen Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">21</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 21</save_string>
-				<poison_effect_primary type="string">1d4 Dex damage</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00468>
 			<id-00469>
 				<type type="string">poison</type>
 				<npc type="string">Phase Spider</npc>
@@ -9390,7 +9258,7 @@
 			<id-00471>
 				<type type="string">poison</type>
 				<npc type="string">Phycomid</npc>
-				<name type="string">Phycomid Spores ISDISEASEYETACTSLIKEPOISON</name>
+				<name type="string">Phycomid Spores</name>
 				<subtype type="string">injury or ingested</subtype>
 				<savetype type="string">fortitude</savetype>
 				<savedc type="number">15</savedc>
@@ -10189,22 +10057,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00522>
-			<id-00523>
-				<type type="string">poison</type>
-				<npc type="string">Shriezyx Queen</npc>
-				<name type="string">Shriezyx Queen Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">19</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 19</save_string>
-				<poison_effect_primary type="string">1d3 Str</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00523>
 			<id-00524>
 				<type type="string">poison</type>
 				<npc type="string">Siren's Bed Anemone</npc>
@@ -10237,22 +10089,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00525>
-			<id-00526>
-				<type type="string">poison</type>
-				<npc type="string">Skull Ripper</npc>
-				<name type="string">Skull Ripper Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">17</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 17</save_string>
-				<poison_effect_primary type="string">1d4 Dex</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00526>
 			<id-00527>
 				<type type="string">poison</type>
 				<npc type="string">Slime Naga</npc>
@@ -10456,21 +10292,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">0</savesreq>
 			</id-00539>
-			<id-00540>
-				<type type="string">poison</type>
-				<npc type="string">Stygira</npc>
-				<name type="string">Stone Curse</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">will</savetype>
-				<savedc type="number">18</savedc>
-				<freq_dice type="dice">d3</freq_dice>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Will DC 18</save_string>
-				<poison_effect_primary type="string">1d6 Dex damage, failing 3 saves results in petrification; cure casting remove curse or spending 1 hour in natural sunlight</poison_effect_primary>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">0</savesreq>
-			</id-00540>
 			<id-00541>
 				<type type="string">poison</type>
 				<npc type="string">Swimming Eye Swarm</npc>
@@ -10503,22 +10324,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00542>
-			<id-00543>
-				<type type="string">poison</type>
-				<npc type="string">Syricta</npc>
-				<name type="string">Syricta Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">24</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 24</save_string>
-				<poison_effect_primary type="string">1d4 Strength</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00543>
 			<id-00544>
 				<type type="string">poison</type>
 				<npc type="string">Taiga Linnorm</npc>
@@ -11211,22 +11016,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00586>
-			<id-00587>
-				<type type="string">poison</type>
-				<npc type="string">Warmonger Wasp</npc>
-				<name type="string">Warmonger Wasp Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">17</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 17</save_string>
-				<poison_effect_primary type="string">1d4 Dex</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00587>
 			<id-00588>
 				<type type="string">poison</type>
 				<npc type="string">Wasp Swarm</npc>
@@ -11695,22 +11484,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">0</savesreq>
 			</id-00617>
-			<id-00618>
-				<type type="string">poison</type>
-				<npc type="string">Cairn Linnorm</npc>
-				<name type="string">Cairn Linnorm Poison</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">28</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">10</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 28</save_string>
-				<poison_effect_primary type="string">4d6 Acid damage and 1d6 Con drain</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00618>
 			<id-00619>
 				<type type="string">disease</type>
 				<npc type="string">Combusted</npc>
@@ -11785,20 +11558,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">0</savesreq>
 			</id-00623>
-			<id-00624>
-				<type type="string">disease</type>
-				<npc type="string">Mummy</npc>
-				<name type="string">Mummy Rot</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">16</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Fort DC 16</save_string>
-				<disease_effect type="formattedtext">1d6 Con and 1d6 Cha; cure -. Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 20 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic. </disease_effect>
-				<isconsecutive type="number">0</isconsecutive>
-				<savesreq type="number">0</savesreq>
-			</id-00624>
 			<id-00625>
 				<type type="string">disease</type>
 				<npc type="string">Petrified Maiden</npc>
@@ -12197,22 +11956,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00649>
-			<id-00650>
-				<type type="string">disease</type>
-				<npc type="string">Khala</npc>
-				<name type="string">Chillbane Fever</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">27</savedc>
-				<onset_interval type="number">1</onset_interval>
-				<onset_unit type="string">1440</onset_unit>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Fortitude DC 27</save_string>
-				<disease_effect type="formattedtext">1d4 Con damage, sickened, and fatigued</disease_effect>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00650>
 			<id-00651>
 				<type type="string">disease</type>
 				<npc type="string">Korir-Kokembe</npc>
@@ -12417,22 +12160,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00663>
-			<id-00664>
-				<type type="string">disease</type>
-				<npc type="string">Scarab Swarm</npc>
-				<name type="string">Filth Fever</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">13</savedc>
-				<onset_dice type="dice">d3</onset_dice>
-				<onset_unit type="string">1440</onset_unit>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<save_string type="string">Fort DC 13</save_string>
-				<disease_effect type="formattedtext">1d3 Dex damage and 1d3 Con damage</disease_effect>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00664>
 			<id-00665>
 				<type type="string">disease</type>
 				<npc type="string">Sha</npc>
