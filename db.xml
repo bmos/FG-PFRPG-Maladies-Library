@@ -8956,22 +8956,6 @@
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">2</savesreq>
 			</id-00446>
-			<id-00448>
-				<type type="string">poison</type>
-				<npc type="string">Ningyo</npc>
-				<name type="string">Ningyo Flesh</name>
-				<subtype type="string">ingested</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">12</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">4</duration_interval>
-				<duration_unit type="string">1</duration_unit>
-				<save_string type="string">Fort DC 12</save_string>
-				<poison_effect_primary type="string">1d2 Int damage</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00448>
 			<id-00449>
 				<type type="string">poison</type>
 				<npc type="string">Nogitsune</npc>
@@ -10793,7 +10777,7 @@
 			</id-00572>
 			<id-00573>
 				<type type="string">poison</type>
-				<npc type="string">Undead Ningyo</npc>
+				<npc type="string">undeadningyo;ningyo</npc>
 				<name type="string">Ningyo Flesh</name>
 				<subtype type="string">ingested</subtype>
 				<savetype type="string">fortitude</savetype>
