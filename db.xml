@@ -7834,14 +7834,14 @@
 			<id-00375>
 				<type type="string">disease</type>
 				<npc type="string">Heartrot Tree</npc>
-				<name type="string">Heartrot Disease SPECIAL</name>
+				<name type="string">Heartrot Disease</name>
 				<subtype type="string">contact</subtype>
 				<savetype type="string">fortitude</savetype>
 				<savedc type="number">25</savedc>
 				<freq_interval type="number">1</freq_interval>
 				<freq_unit type="string">1</freq_unit>
 				<save_string type="string">Fort DC 25</save_string>
-				<disease_effect type="formattedtext">1d2 Wis damage and nauseated</disease_effect>
+				<disease_effect type="formattedtext">initial effect 1d2 Wis damage and nauseated; secondary effect 1d3 Con drain</disease_effect>
 				<isconsecutive type="number">1</isconsecutive>
 				<savesreq type="number">3</savesreq>
 			</id-00375>
