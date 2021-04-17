@@ -7382,22 +7382,6 @@
 				<isconsecutive type="number">0</isconsecutive>
 				<savesreq type="number">1</savesreq>
 			</id-00341>
-			<id-00342>
-				<type type="string">poison</type>
-				<npc type="string">Giant Ground Wasp</npc>
-				<name type="string">p</name>
-				<subtype type="string">injury</subtype>
-				<savetype type="string">fortitude</savetype>
-				<savedc type="number">15</savedc>
-				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
-				<duration_interval type="number">6</duration_interval>
-				<duration_unit type="string">.1</duration_unit>
-				<save_string type="string">Fort DC 15</save_string>
-				<poison_effect_primary type="string">1d4 Dex damage</poison_effect_primary>
-				<isconsecutive type="number">1</isconsecutive>
-				<savesreq type="number">2</savesreq>
-			</id-00342>
 			<id-00343>
 				<type type="string">disease</type>
 				<npc type="string">Giant Ground Wasp</npc>
