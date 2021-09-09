@@ -4,4 +4,4 @@ One of the top requests for my [Disease Tracker](https://github.com/bmos/FG-PFRP
 If you encounter any duplicates, incorrect information, or other issues, please report them here or in the forum thread.
 
 # Compatibility and Instructions
-This extension has been tested with [FantasyGrounds Classic](https://www.fantasygrounds.com/home/FantasyGroundsClassic.php) 3.3.12 and [FantasyGrounds Unity](https://www.fantasygrounds.com/home/FantasyGroundsUnity.php) 4.0.10 (2021-02-04).
+This extension has been tested with [FantasyGrounds Unity](https://www.fantasygrounds.com/home/FantasyGroundsUnity.php) 4.1.6 (2021-09-08).
