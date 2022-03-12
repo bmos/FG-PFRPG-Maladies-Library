@@ -22,7 +22,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'extension_filename.ext'
+        filename: 'extension_filename.mod'
         exclusions: '*.git* /*node_modules/* .editorconfig body.md *.psd *.xcf forge-thumbnail.png'
     - name: Create Release
       uses: ncipollo/release-action@v1
