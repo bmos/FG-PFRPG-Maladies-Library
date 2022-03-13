@@ -8,7 +8,7 @@ env:
   EXTENSION: '.mod'
   FILENAME: join([format( $GITHUB_REPOSITORY, $GITHUB_REPOSITORY_OWNER, ''),$EXTENSION])
 
-name: format( Build FILENAME File, 'FILENAME', ${{ env.FILENAME }})
+name: Build $EXTENSION File
 
 jobs:
   build:
