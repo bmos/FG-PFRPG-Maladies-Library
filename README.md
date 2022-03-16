@@ -1,3 +1,5 @@
+[![Build FG-Usable File](https://github.com/bmos/FG-PFRPG-Maladies-Library/actions/workflows/create-mod.yml/badge.svg)](https://github.com/bmos/FG-PFRPG-Maladies-Library/actions/workflows/create-mod.yml)
+
 # PFRPG Maladies Library 
 Without [Malady Tracker](https://github.com/bmos/FG-PFRPG-Malady-Tracker) v1.5+, the module data will not show up anywhere.
 
