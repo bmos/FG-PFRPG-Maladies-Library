@@ -8301,7 +8301,7 @@
 				<savetype type="string">fortitude</savetype>
 				<savedc type="number">29</savedc>
 				<freq_interval type="number">1</freq_interval>
-				<freq_unit type="string">1</freq_unit>
+				<freq_unit type="string">.1</freq_unit>
 				<duration_interval type="number">10</duration_interval>
 				<duration_unit type="string">.1</duration_unit>
 				<save_string type="string">Fort DC 29</save_string>
